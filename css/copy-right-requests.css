@@ -1,0 +1,221 @@
+.profile__sidebar {
+  background: var(--dark-color);
+  border: 1px solid #ffffff3d;
+  position: sticky !important;
+  top: 80px;
+  width: 300px;
+}
+
+.img__wrapp label {
+  right: 60px;
+  top: 10px;
+  background: black;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+}
+
+.img__wrapp label img {
+  width: 18px;
+}
+
+.profile__img {
+  border: 2px solid #000;
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+  object-fit: contain;
+}
+
+.profile__info {
+  max-width: 270px;
+  margin: auto;
+  text-align: center;
+  margin-top: -80px;
+  position: relative;
+  z-index: 9;
+}
+
+.sidebar__list {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+.sidebar__list li {
+  border-top: 1px solid #ffffff38;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.sidebar__list li a {
+  text-decoration: none;
+  display: flex !important;
+  justify-content: start;
+  margin-left: 40px;
+}
+
+.sidebar__list li a span {
+  text-decoration: none;
+  align-items: center;
+}
+
+/* My address */
+/* .address_card input[type="radio"]:checked+.radio-span::before {
+  content: "";
+  position: relative;
+  bottom: 80%;
+  left: 80%;
+  font-family: var(--primary-medium-font);
+} */
+
+.form-check-input:checked {
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.house_icon {
+  border-radius: 50px;
+  background-color: var(--dark-color);
+  padding: 10px;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.address_card #check_box {
+  background-color: #000000 !important;
+  width: 120px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  padding-right: 9px;
+}
+
+.form-check-input {
+  width: 10px;
+  height: 10px;
+  margin-top: .25em;
+  vertical-align: top;
+  margin-right: 6px;
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  border: 1px solid white;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-print-color-adjust: exact;
+  color-adjust: exact;
+}
+
+.form-check-input:checked {
+  background-color: #000000;
+  border-color: #ffffff;
+}
+
+.form-check-input::before {
+  content: "";
+  position: relative;
+  bottom: 80%;
+  left: 80%;
+  font-family: var(--primary-medium-font);
+}
+
+/*  */
+.address_card {
+  background-color: var(--light-color);
+  padding: 0px 10px 10px 10px 10px;
+  border: 1px solid var(--dark-color);
+  height: 150px;
+  align-content: center;
+  position: relative;
+}
+
+/* my orders */
+
+.light-bg-div {
+  background: rgba(255, 255, 255, 0);
+  padding: 70px 69px;
+  margin: 10px 0;
+}
+
+.my__orders-table {
+  border-spacing: 10px 10px;
+  margin: 10px 0;
+}
+
+.border-1 {
+  border: 1px solid rgb(0, 0, 0);
+}
+thead tr th{
+  position: relative;
+  bottom: 10px;
+}
+.my__orders-table tr td:not(:last-child) {
+  position: relative;
+}
+
+/* .my__orders-table tr #first_child::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 17px;
+  height: 50%;
+  width: 1px;
+  background: #020202;
+  transform: translateY(-50%);
+} */
+.my__orders-table tr td::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0;
+  height: 50%;
+  width: 1px;
+  background: #020202;
+  transform: translateY(-50%);
+}
+
+.my__orders-table tr td:last-child::before {
+  content: none;
+}
+
+
+.my__orders-table .tag {
+  max-width: 90%;
+  margin: auto;
+  padding: 4px 0;
+}
+
+.my-order-product-img {
+  width: 50px;
+  height: 50px;
+  background-color: var(--light-gray);
+}
+
+
+
+@media (min-width:200px)and (max-width:992px) {
+
+  .my__orders-table tr td::before {
+    display: none;
+  }
+  .profile__sidebar {
+    background: var(--dark-color);
+    border: 1px solid #ffffff3d;
+    position: sticky !important;
+    top: 80px;
+    width: auto;
+  }
+  .my__orders-table {
+    border-spacing: 10px 10px;
+    margin: 10px 0;
+    width: 500px !important;
+    overflow-x: scroll;
+}
+}

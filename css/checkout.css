@@ -1,0 +1,262 @@
+.shop-select .form-select {
+    font-size: 14px;
+    font-family: var(--secondary-regular-font);
+    border: 1px solid #00000050;
+    border-radius: 0;
+    color: var(--gray-color);
+    height: 52px;
+    max-width: 100%;
+    width: 100%;
+    background-color: transparent;
+}
+
+.house_icon {
+    border-radius: 50px;
+    background-color: var(--dark-color);
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.submit-btn {
+    width: 100% !important;
+    border-radius: 27px;
+    text-decoration: none;
+    border: 1px solid var(--secondary-color);
+    font-size: 14px;
+    padding: 7px 30px;
+    font-family: var(--primary-medium-font);
+    color: var(--secondary-color);
+    transition: 0.6s all;
+    width: 100% !important;
+    background-color: transparent;
+}
+
+.submit-btn a {
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
+.order_summary {
+    padding: 15px;
+    background-color: var(--light-gray);
+    width: 100%;
+    position: relative;
+    height: 1080px;
+}
+
+.total_price {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    z-index: 999;
+    background: black;
+    width: 100%;
+    overflow-x: hidden;
+    padding: 0px 20px;
+}
+
+.confirm_payment_btn {
+    position: relative;
+    top: 30px;
+    right: 0px;
+}
+
+@media (min-width:200px) and (max-width:992px) {
+    .order_summary {
+        height: 105%;
+    }
+
+    .confirm_payment_btn {
+        position: relative;
+        top: -10px;
+        right: auto;
+    }
+    .order_list{
+        height: auto  !important;
+        overflow-y: scroll;
+    }
+
+    .address_card {
+        background-color: var(--light-color);
+        padding: 10px;
+        border: 1px solid var(--dark-color);
+        height: 125px !important;
+        align-content: center;
+        position: relative;
+        width: 250px;
+        margin: 0;
+    }
+}
+
+.product_img {
+    background: white;
+    border-radius: 0px;
+}
+
+#apply_input {
+    background-color: white;
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+    max-width: 100%;
+    border-radius: 0px;
+    min-width: auto;
+    height: 60px;
+}
+
+#apply_input::placeholder {
+    color: white;
+}
+
+#apply_btn {
+    cursor: pointer;
+    background: var(--gray-color);
+    border-radius: 0;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    height: 48px;
+    /* padding: 15px 16px; */
+    width: 110px;
+    z-index: 99;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.place_order {
+    display: flex;
+    justify-content: end;
+    margin: 30px;
+}
+
+#savedAddressDetails input[type="radio"]:checked+.radio-span::before {
+    content: "Active";
+    position: absolute;
+    bottom: 80%;
+    left: 80%;
+    font-family: var(--primary-medium-font);
+}
+
+/*  */
+.address_card {
+    background-color: var(--light-color);
+    padding: 20px;
+    border: 1px solid var(--dark-color);
+    height: 150px;
+    align-content: center;
+    position: relative;
+}
+
+/* Custom Radio Start here */
+.form-check-input:checked {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.custom-radio-1:checked~.radio-here,
+.custom-radio-1:not(:checked)~.radio-here {
+    position: relative;
+    padding-left: 32px;
+    cursor: pointer;
+    display: block;
+    width: 18px;
+    height: 15px;
+}
+
+.custom-radio-1:checked~.radio-here:before,
+.custom-radio-1:not(:checked)~.radio-here:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 16px;
+    height: 16px;
+    border: 1px solid var(--secondary-color);
+    border-radius: 100%;
+    background: #fff;
+}
+
+.custom-radio-1:checked~.radio-here:after,
+.custom-radio-1:not(:checked)~.radio-here:after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background: var(--dark-color);
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    border-radius: 100%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.custom-radio-1:not(:checked)~.radio-here:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+
+.custom-radio-1:checked~.radio-here:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.order_list {
+    height: 350px;
+    overflow-y: scroll;
+
+}
+
+@media (min-width:200px) and (max-width:992px) {
+    .product_img {
+        width: 50px;
+    }
+
+}
+
+/* .address_card label {
+    background-color: #000000;
+    position: absolute;
+    top: 0px;
+    right: 0;
+    padding: 5px;
+} */
+
+.address_card.form-check-input:checked {
+    background-color: #000000;
+    border-color: #ffffff;
+}
+
+.address_card #check_box {
+    background-color: #000000 !important;
+    width: 80px;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    padding-right: 12px;
+    padding-bottom: 2px;
+}
+
+.address_card .form-check-input {
+    width: 10px;
+    height: 10px;
+    margin-top: .25em;
+    vertical-align: top;
+    margin-right: 6px;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: 1px solid white;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+}

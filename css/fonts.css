@@ -1,0 +1,105 @@
+/* Variable Css Start Here */
+/* Font cdn starts here */
+@font-face {
+	font-family: "robotos-regular";
+	src: url("../fonts/RobotoCondensed/RobotoCondensed-Regular.woff");
+}
+
+@font-face {
+	font-family: "roboto-medium";
+	src: url("../fonts/RobotoCondensed/RobotoCondensed-Medium.woff");
+}
+
+@font-face {
+	font-family: "roboto-black";
+	src: url("../fonts/RobotoCondensed/RobotoCondensed-Black.woff");
+}
+
+@font-face {
+	font-family: "roboto-bold";
+	src: url("../fonts/RobotoCondensed/RobotoCondensed-Bold.woff");
+}
+
+@font-face {
+	font-family: "roboto-light";
+	src: url("../fonts/RobotoCondensed/RobotoCondensed-Light.woff");
+}
+
+@font-face {
+	font-family: "roboto-extra-bold";
+	src: url("../fonts/RobotoCondensed/RobotoCondensed-ExtraBold.woff");
+}
+
+/* popsins */
+/* Font cdn ends here */
+@font-face {
+	font-family: "poppins-black";
+	src: url("../fonts/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+	font-family: "poppins-bold";
+	src: url("../fonts/Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+	font-family: "poppins-light";
+	src: url("../fonts/Poppins/Poppins-Light.ttf");
+}
+
+@font-face {
+	font-family: "poppins-medium";
+	src: url("../fonts/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+	font-family: "poppins-regular";
+	src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+	font-family: "poppins-semi-bold";
+	src: url("../fonts/Poppins/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: "poppins-thin";
+	src: url("../fonts/Poppins/Poppins-Thin.ttf");
+}
+
+@font-face {
+	font-family: "Grotesk";
+	src: url("../fonts/Grotesk/TomatoGrotesk-Bold.otf");
+}
+
+@font-face {
+	font-family: "Rubik";
+	src: url("../fonts/rubik/Rubik-Medium.ttf");
+}
+:root {
+	/* Typography starts here */
+	/*primary  Font*/
+	--primary-bold-font: "roboto-bold";
+	--primary-light-font: "roboto-light";
+	--primary-medium-font: "roboto-medium";
+	--primary-regular-font: "robotos-regular";
+	--primary-black-font: "roboto-black";
+	--primary-extra-bold: "roboto-extra-bold";
+	/* secondary Font*/
+	--secondary-black-font: "poppins-black";
+	--secondary-bold-font: "poppins-bold";
+	--secondary-light-font: "poppins-light";
+	--secondary-medium-font: "poppins-medium";
+	--secondary-regular-font: "poppins-regular";
+	--secondary-semi-bold-font: "poppins-semi-bold";
+	--secondary-thin-font: "poppins-thin";
+	
+	/*third  Font*/
+	
+	--Grotesk-font: "Grotesk";
+	/* Typography ends here */
+
+	
+	--Rubik-font: "Rubik";
+	/* Typography ends here */
+}
