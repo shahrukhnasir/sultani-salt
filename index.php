@@ -1186,7 +1186,7 @@
         <div class="cartEmpty-content mt-4">
             <i class="icon anm anm-bag-l fs-1 text-muted"></i>
             <p class="my-3">No Products in the Cart</p>
-            <a href="index.html" class="btn btn-primary cart-btn">Continue shopping</a>
+            <a href="index" class="btn btn-primary cart-btn">Continue shopping</a>
         </div>
     </div>
     <!--End MiniCart Empty-->

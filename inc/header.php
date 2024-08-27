@@ -96,7 +96,7 @@ $isHomePage = ($activePage == 'index');
 
                         <li class="lvl1 parent dropdown"><a href="#">About us </a>
                             <ul class="dropdown">
-                                <li><a href="blog-grid.html" class="site-nav">Term & Condition </a></li>
+                                <li><a href="#" class="site-nav">Term & Condition </a></li>
 
                             </ul>
                         </li>

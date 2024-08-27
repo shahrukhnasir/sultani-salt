@@ -21,7 +21,7 @@
         <div class="service-info separate-line g-3 g-md-4 row row-cols-lg-4 row-cols-md-4 row-cols-sm-2 row-cols-2">
             <div class="service-wrap d-flex-justify-center flex-nowrap">
                 <div class="service-icon d-flex align-items-center">
-                <i class="fas fa-shipping-fast text-white"></i>
+                    <i class="fas fa-shipping-fast text-white"></i>
                 </div>
                 <div class="service-content ms-2">
                     <h6 class="mb-0 text-white">Free Shipping world wide</h6>
@@ -29,7 +29,7 @@
             </div>
             <div class="service-wrap d-flex-justify-center flex-nowrap">
                 <div class="service-icon d-flex align-items-center">
-                <i class="fa fa-money text-white" aria-hidden="true"></i>
+                    <i class="fa fa-money text-white" aria-hidden="true"></i>
 
                 </div>
                 <div class="service-content ms-2">
@@ -38,7 +38,7 @@
             </div>
             <div class="service-wrap d-flex-justify-center flex-nowrap">
                 <div class="service-icon d-flex align-items-center">
-                <i class="fa fa-exchange text-white" aria-hidden="true"></i>
+                    <i class="fa fa-exchange text-white" aria-hidden="true"></i>
 
                 </div>
                 <div class="service-content ms-2">
@@ -47,7 +47,7 @@
             </div>
             <div class="service-wrap d-flex-justify-center flex-nowrap">
                 <div class="service-icon d-flex align-items-center">
-                <i class="fa fa-clock-o text-white" aria-hidden="true"></i>
+                    <i class="fa fa-clock-o text-white" aria-hidden="true"></i>
                 </div>
                 <div class="service-content ms-2">
                     <h6 class="mb-0 text-white">24/7 Fast Support</h6>
@@ -64,7 +64,9 @@
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-4 col-lg-2 footer-links">
                     <div class="my-auto">
-                        <img src="./assets/images/logo/Logo.png" alt="">
+                        <a href="index">
+                            <img src="./assets/images/logo/Logo.png" alt="">
+                        </a>
                     </div>
                 </div>
                 <!-- <div class="col-12 col-sm-12 col-md-4 col-lg-2 footer-links ps-lg-5">
