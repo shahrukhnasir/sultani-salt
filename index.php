@@ -13,74 +13,30 @@
             <div class="slide">
                 <div class="slideshow-wrap">
                     <picture>
-                        <source media="(max-width:767px)" srcset="assets/images/slideshow/banner1.webp" width="1100" height="800">
-                        <img class="blur-up lazyload" src="assets/images/slideshow/banner1.webp" alt="slideshow" title="" width="1920" height="800" />
+                        <source media="(max-width:767px)" srcset="assets/images/slideshow/banner1.jpg" width="1100" height="800">
+                        <img class="blur-up lazyload" src="assets/images/slideshow/banner1.jpg" alt="slideshow" title="" width="1920" height="800" />
                     </picture>
-                    <!-- <div class="container">
-                                    <div class="slideshow-content slideshow-overlay middle-right">
-                                        <div class="slideshow-content-in">
-                                            <div class="wrap-caption animation style1">
-                                                <p class="ss-small-title">Precision, Quality & Longevity</p>
-                                                <h2 class="ss-mega-title">The New Era of <br>Eyewear</h2>
-                                                <p class="ss-sub-title xs-hide text-large">Save your eyes from sunbeams in summer!</p>
-                                                <div class="ss-btnWrap">
-                                                    <a class="btn btn-primary" href="shop-grid-view.html">Explore now</a>
-                                                    <a class="btn btn-secondary" href="shop-grid-view.html">Order now!</a>
-                                                </div>
-                                            </div>
-                                        </div>
+                    <div class="container">
+                        <div class="slideshow-content slideshow-overlay middle-right">
+                            <div class="slideshow-content-in">
+                                <div class="wrap-caption animation style1">
+                                    <p class="ss-small-title">Precision, Quality & Longevity</p>
+                                    <h2 class="ss-mega-title">The New Era of <br>Eyewear</h2>
+                                    <p class="ss-sub-title xs-hide text-large">Save your eyes from sunbeams in summer!</p>
+                                    <div class="ss-btnWrap">
+                                        <a class="btn btn-primary" href="shop-grid-view.html">Explore now</a>
+                                        <a class="btn btn-secondary" href="shop-grid-view.html">Order now!</a>
                                     </div>
-                                </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="slide">
-                <div class="slideshow-wrap">
-                    <picture>
-                        <source media="(max-width:767px)" srcset="assets/images/slideshow/banner2.webp" width="1100" height="800">
-                        <img class="blur-up lazyload" src="assets/images/slideshow/banner2.webp" alt="slideshow" title="" width="1920" height="800" />
-                    </picture>
-                    <!-- <div class="container">
-                                    <div class="slideshow-content slideshow-overlay middle-left">
-                                        <div class="slideshow-content-in">
-                                            <div class="wrap-caption animation style1">
-                                                <p class="ss-small-title">Sale OFF 20% all products</p>
-                                                <h2 class="ss-mega-title">Stylish Sunglasses</h2>
-                                                <p class="ss-sub-title xs-hide text-large">Underline your personality authantic collection!</p>
-                                                <div class="ss-btnWrap">
-                                                    <a class="btn btn-primary" href="shop-grid-view.html">Explore now</a>
-                                                    <a class="btn btn-secondary" href="shop-grid-view.html">Order now!</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                </div>
-            </div>
-            <div class="slide">
-                <div class="slideshow-wrap">
-                    <picture>
-                        <source media="(max-width:767px)" srcset="assets/images/slideshow/banner3.webp" width="1100" height="800">
-                        <img src="assets/images/slideshow/banner3.webp" alt="slideshow" title="" width="1920" height="800" />
-                    </picture>
-                    <!-- <div class="container">
-                                    <div class="slideshow-content slideshow-overlay middle-right">
-                                        <div class="slideshow-content-in">
-                                            <div class="wrap-caption animation style1">
-                                                <p class="ss-small-title">So many styles, so many brands!</p>
-                                                <h2 class="ss-mega-title">Brands you love</h2>
-                                                <p class="ss-sub-title xs-hide text-large">Find the sunglasses that make you unique</p>
-                                                <div class="ss-btnWrap">
-                                                    <a class="btn btn-primary" href="shop-grid-view.html">Explore now</a>
-                                                    <a class="btn btn-secondary" href="shop-grid-view.html">Order now!</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-                </div>
-            </div>
+            <!-- Repeat for other slides -->
         </div>
     </section>
+
     <!--End Home Slideshow-->
 
     <!--Collection banner-->
@@ -92,85 +48,84 @@
             </div>
 
             <div class="collection-banner-grid">
-                <div class="row row-cols-lg-2 row-cols-md-2 row-cols-sm-1 row-cols-1">
+                <div class="row">
                     <div class="collection-banner-item mb-3 mt-md-0">
-                        <div class="row sp-row row-cols-lg-1 row-cols-md-1 row-cols-sm-1 row-cols-1">
-                            <!-- <div class="collection-item sp-col large-bnr">
-                                <a href="shop-left-sidebar.html" class="zoom-scal clr-none">
-                                    <div class="img">
-                                        <img class="blur-up lazyload w-100" data-src="assets/images/collection/demo10-small-banner1.jpg" src="assets/images/collection/demo10-small-banner1.jpg" alt="collection" title="" width="646" height="648" />
-                                    </div>
-                                    <div class="details bottom-right p-lg-0">
-                                        <div class="inner">
-                                            <span class="small-title mb-2 d-block">Clear Black</span>
-                                            <h3 class="title">Sunglass Trends</h3>
-                                            <span class="btn btn-primary btn-md rounded-pill mt-3">Order Now</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div> -->
 
-                            <div class="home_salt_slider slick-arrow-dots circle-dots">
-                                <div class="slide">
-                                    <div class="slideshow-wrap">
-                                        <picture>
-                                            <source media="(max-width:767px)" srcset="assets/images/slideshow/01.png">
-                                            <img class="img-fluid" src="assets/images/slideshow/01.png" alt="slideshow"  />
-                                        </picture>
+                        <div class="home_salt_slider slick-arrow-dots circle-dots">
 
-                                    </div>
-                                </div>
-                                <div class="slide">
-                                    <div class="slideshow-wrap">
-                                        <picture>
-                                            <source media="(max-width:767px)" srcset="assets/images/slideshow/02.png">
-                                            <img class="img-fluid" src="assets/images/slideshow/02.png" alt="slideshow"  />
-                                        </picture>
+                            <figure>
 
-                                    </div>
-                                </div>
-                                <div class="slide">
-                                    <div class="slideshow-wrap">
-                                        <picture>
-                                            <source media="(max-width:767px)" srcset="assets/images/slideshow/03.jpg">
-                                            <img src="assets/images/slideshow/03.jpg" alt="slideshow" class="img-fluid" />
-                                        </picture>
+                                <img class="img-fluid" src="assets/images/slideshow/01.png" alt="slideshow" />
+                                <div class="text-center py-3">
 
-                                    </div>
-                                </div>
-                                <div class="slide">
-                                    <div class="slideshow-wrap">
-                                        <picture>
-                                            <source media="(max-width:767px)" srcset="assets/images/slideshow/04.jpg">
-                                            <img src="assets/images/slideshow/04.jpg" alt="slideshow"  class="img-fluid" />
-                                        </picture>
-
-                                    </div>
+                                    <p class="text-dark">PINK FINE SALT</p>
                                 </div>
 
-                                <div class="slide">
-                                    <div class="slideshow-wrap">
-                                        <picture>
-                                            <source media="(max-width:767px)" srcset="assets/images/slideshow/05.jpg">
-                                            <img src="assets/images/slideshow/05.jpg" alt="slideshow"  class="img-fluid" />
-                                        </picture>
+                            </figure>
 
-                                    </div>
+
+
+
+                            <figure>
+
+                                <img class="img-fluid" src="assets/images/slideshow/02.png" alt="slideshow" />
+                                <div class="text-center py-3">
+
+                                    <p class="text-dark">PINK COARSE SALT</p>
                                 </div>
+                            </figure>
 
-                                <div class="slide">
-                                    <div class="slideshow-wrap">
-                                        <picture>
-                                            <source media="(max-width:767px)" srcset="assets/images/slideshow/06.jpg">
-                                            <img src="assets/images/slideshow/06.jpg" alt="slideshow"  class="img-fluid" />
-                                        </picture>
 
-                                    </div>
+
+                            <figure>
+
+                                <img src="assets/images/slideshow/03.jpg" alt="slideshow" class="img-fluid" />
+                                <div class="text-center py-3">
+
+                                    <p class="text-dark">CRYSTAL WHITE FINE SALT</p>
                                 </div>
-                            </div>
+                            </figure>
+
+
+
+
+                            <figure>
+
+                                <img src="assets/images/slideshow/04.jpg" alt="slideshow" class="img-fluid" />
+                                <div class="text-center py-3">
+
+                                    <p class="text-dark">CRYSTAL WHITE COARSE SALT</p>
+                                </div>
+                            </figure>
+
+
+
+
+
+                            <figure>
+
+                                <img src="assets/images/slideshow/05.jpg" alt="slideshow" class="img-fluid" />
+                                <div class="text-center py-3">
+
+                                    <p class="text-dark">BLACK FINE SALT</p>
+                                </div>
+                            </figure>
+
+
+                            <figure>
+
+                                <img src="assets/images/slideshow/06.jpg" alt="slideshow" class="img-fluid" />
+                                <div class="text-center py-3">
+
+                                    <p class="text-dark">BLACK COARSE SALT</p>
+                                </div>
+                            </figure>
+
+
                         </div>
+                        <!-- </div> -->
                     </div>
-                    <div class="collection-banner-item">
+                    <!-- <div class="collection-banner-item">
                         <div class="row sp-row row-cols-lg-2 row-cols-md-2 row-cols-sm-2 row-cols-2">
                             <div class="collection-item sp-col">
                                 <a href="/" class="zoom-scal clr-none">
@@ -200,7 +155,7 @@
                             </div>
                            
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -264,19 +219,19 @@
     <section class="section product-grid-section tab-slider-product section-clr">
         <div class="container">
             <div class="section-header">
-                <h2>Find The Perfect Fit</h2>
+                <h2>Products</h2>
             </div>
 
             <div class="tabs-listing">
                 <ul class="nav nav-tabs style1 justify-content-center" id="productTabs" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="sunglasses-tab" data-bs-toggle="tab" data-bs-target="#sunglasses" type="button" role="tab" aria-controls="sunglasses" aria-selected="true">Sunglasses</button>
+                        <button class="nav-link active" id="sunglasses-tab" data-bs-toggle="tab" data-bs-target="#sunglasses" type="button" role="tab" aria-controls="sunglasses" aria-selected="true">Edible Salt</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="readingGlasses-tab" data-bs-toggle="tab" data-bs-target="#readingGlasses" type="button" role="tab" aria-controls="readingGlasses" aria-selected="false">Reading Glasses</button>
+                        <button class="nav-link" id="readingGlasses-tab" data-bs-toggle="tab" data-bs-target="#readingGlasses" type="button" role="tab" aria-controls="readingGlasses" aria-selected="false">Health & Wellness</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="premiumEyeglasses-tab" data-bs-toggle="tab" data-bs-target="#premiumEyeglasses" type="button" role="tab" aria-controls="premiumEyeglasses" aria-selected="false">Premium Eyeglasses</button>
+                        <button class="nav-link" id="premiumEyeglasses-tab" data-bs-toggle="tab" data-bs-target="#premiumEyeglasses" type="button" role="tab" aria-controls="premiumEyeglasses" aria-selected="false">Home Decor</button>
                     </li>
                 </ul>
 
@@ -289,574 +244,233 @@
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" clasproduct-details="product-img">
                                                 <!-- Image -->
                                                 <img class="img-fluid" data-src="assets/images/product/botle/product1.jpg" src="assets/images/product/botle/product1.jpg" alt="Product" />
-                                                <!-- End Image -->
-                                               
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Lacoste</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Gentle Monster Gold Red</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$128.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">3 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Quick Shop">
-                                                        <a href="#quickshop-modal" class="btn btn-primary quick-shop quick-shop-modal" data-bs-toggle="modal" data-bs-target="#quickshop_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product2.jpg" src="assets/images/products/sunglasses-product2.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product2-1.jpg" src="assets/images/products/sunglasses-product2-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl on-sale">Sale</span></div>
-                                            <!-- End Product label -->
-                                            <!--Countdown Timer-->
-                                            <div class="saleTime" data-countdown="2025/01/01"></div>
-                                            <!--End Countdown Timer-->
 
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
+                                            </a>
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Boss</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gentle Monster Silver Stripe</a>
+                                                    <a href="product-layout1.html"> WHITE CYSTAL SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price old-price">$114.00</span><span class="price">$99.00</span>
+
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                                    <span class="caption hidden ms-1">8 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Select Options">
-                                                        <a href="#quickshop-modal" class="btn btn-primary quick-shop quick-shop-modal" data-bs-toggle="modal" data-bs-target="#quickshop_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product3-1.jpg" src="assets/images/products/sunglasses-product3-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product2.jpg" src="assets/images/product/botle/product2.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl pr-label3">New</span></div>
-                                            <!-- End Product label -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Guess</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gucci Beige Thick Acetate</a>
+                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$99.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">10 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product4.jpg" src="assets/images/products/sunglasses-product4.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product4-1.jpg" src="assets/images/products/sunglasses-product4-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product3.jpg" src="assets/images/product/botle/product3.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                            <!--Product Availability-->
-                                            <div class="product-availability rounded-5">
-                                                <div class="lh-1 d-flex justify-content-between">
-                                                    <div class="text-sold">Sold:<strong class="text-primary ms-1">34</strong></div>
-                                                    <div class="text-available">Available:<strong class="text-primary ms-1">16</strong></div>
-                                                </div>
-                                                <div class="progress">
-                                                    <div class="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <!--End Product Availability-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">RayBan</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Tinted hexagon oversized glass</a>
+                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price old-price">$198.00</span><span class="price">$99.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">0 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product5.jpg" src="assets/images/products/sunglasses-product5.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product5-1.jpg" src="assets/images/products/sunglasses-product5-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product4.jpg" src="assets/images/product/botle/product4.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl pr-label2">Hot</span></div>
-                                            <!-- End Product label -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Gerogio</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Light Gray full rim round</a>
+                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$139.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">3 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product6.jpg" src="assets/images/products/sunglasses-product6.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product6-1.jpg" src="assets/images/products/sunglasses-product6-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product5.jpg" src="assets/images/product/botle/product5.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Boss</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">220G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gold yellow solid full rim</a>
+                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$299.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">15 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product7.jpg" src="assets/images/products/sunglasses-product7.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product7-1.jpg" src="assets/images/products/sunglasses-product7-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product6.jpg" src="assets/images/product/botle/product6.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Armani</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Transparent wayfarer lens</a>
+                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$139.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">11 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product8.jpg" src="assets/images/products/sunglasses-product8.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product8-1.jpg" src="assets/images/products/sunglasses-product8-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product7.jpg" src="assets/images/product/botle/product7.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Lacoste</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Green mirrored mercury lens cool</a>
+                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$134.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">0 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product8.jpg" src="assets/images/product/botle/product8.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">120G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html"> WHITE CRYSTAL SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -876,576 +490,233 @@
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" clasproduct-details="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product5.jpg" src="assets/images/products/sunglasses-product5.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product5-1.jpg" src="assets/images/products/sunglasses-product5-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl pr-label2">Hot</span></div>
-                                            <!-- End Product label -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Gerogio</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Light Gray full rim round</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$139.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">3 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product6.jpg" src="assets/images/products/sunglasses-product6.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product6-1.jpg" src="assets/images/products/sunglasses-product6-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Boss</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Gold yellow solid full rim</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$299.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">15 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product7.jpg" src="assets/images/products/sunglasses-product7.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product7-1.jpg" src="assets/images/products/sunglasses-product7-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Armani</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Transparent frame wayfarer lens</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$139.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">11 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product8.jpg" src="assets/images/products/sunglasses-product8.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product8-1.jpg" src="assets/images/products/sunglasses-product8-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Lacoste</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Green mirrored mercury lens cool</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$134.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">0 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product1.jpg" src="assets/images/products/sunglasses-product1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product1-1.jpg" src="assets/images/products/sunglasses-product1-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Lacoste</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Gentle Monster Gold Red</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$128.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">3 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Quick Shop">
-                                                        <a href="#quickshop-modal" class="btn btn-primary quick-shop quick-shop-modal" data-bs-toggle="modal" data-bs-target="#quickshop_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product2.jpg" src="assets/images/products/sunglasses-product2.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product2-1.jpg" src="assets/images/products/sunglasses-product2-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl on-sale">Sale</span></div>
-                                            <!-- End Product label -->
-                                            <!--Countdown Timer-->
-                                            <div class="saleTime" data-countdown="2025/01/01"></div>
-                                            <!--End Countdown Timer-->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product1.jpg" src="assets/images/product/botle/product1.jpg" alt="Product" />
 
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
+                                            </a>
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Boss</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gentle Monster Silver Stripe</a>
+                                                    <a href="product-layout1.html"> WHITE CYSTAL SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price old-price">$114.00</span><span class="price">$99.00</span>
+
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                                    <span class="caption hidden ms-1">8 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Select Options">
-                                                        <a href="#quickshop-modal" class="btn btn-primary quick-shop quick-shop-modal" data-bs-toggle="modal" data-bs-target="#quickshop_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product3-1.jpg" src="assets/images/products/sunglasses-product3-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product2.jpg" src="assets/images/product/botle/product2.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl pr-label3">New</span></div>
-                                            <!-- End Product label -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Guess</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gucci Beige Thick Acetate</a>
+                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$99.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">10 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product4.jpg" src="assets/images/products/sunglasses-product4.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product4-1.jpg" src="assets/images/products/sunglasses-product4-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product3.jpg" src="assets/images/product/botle/product3.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                            <!--Product Availability-->
-                                            <div class="product-availability rounded-5">
-                                                <div class="lh-1 d-flex justify-content-between">
-                                                    <div class="text-sold">Sold:<strong class="text-primary ms-1">34</strong></div>
-                                                    <div class="text-available">Available:<strong class="text-primary ms-1">16</strong></div>
-                                                </div>
-                                                <div class="progress">
-                                                    <div class="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <!--End Product Availability-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">RayBan</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Tinted hexagon oversized glass</a>
+                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price old-price">$198.00</span><span class="price">$99.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">0 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product4.jpg" src="assets/images/product/botle/product4.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">200G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product5.jpg" src="assets/images/product/botle/product5.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">220G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product6.jpg" src="assets/images/product/botle/product6.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">120G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product7.jpg" src="assets/images/product/botle/product7.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">120G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product8.jpg" src="assets/images/product/botle/product8.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">120G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html"> WHITE CRYSTAL SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1465,576 +736,233 @@
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" clasproduct-details="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product1.jpg" src="assets/images/products/sunglasses-product1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product1-1.jpg" src="assets/images/products/sunglasses-product1-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
-                                        <div class="product-details text-left">
-                                            <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Lacoste</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
-                                                <div class="product-name">
-                                                    <a href="product-layout1.html">Gentle Monster Gold Red</a>
-                                                </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
-                                                <div class="product-price">
-                                                    <span class="price">$128.00</span>
-                                                </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">3 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
-                                            </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Quick Shop">
-                                                        <a href="#quickshop-modal" class="btn btn-primary quick-shop quick-shop-modal" data-bs-toggle="modal" data-bs-target="#quickshop_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
-                                        </div>
-                                        <!-- End product details -->
-                                    </div>
-                                </div>
-                                <div class="item col-item">
-                                    <div class="product-box">
-                                        <!-- Start Product Image -->
-                                        <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
-                                                <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product2.jpg" src="assets/images/products/sunglasses-product2.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product2-1.jpg" src="assets/images/products/sunglasses-product2-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
-                                            </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl on-sale">Sale</span></div>
-                                            <!-- End Product label -->
-                                            <!--Countdown Timer-->
-                                            <div class="saleTime" data-countdown="2025/01/01"></div>
-                                            <!--End Countdown Timer-->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product1.jpg" src="assets/images/product/botle/product1.jpg" alt="Product" />
 
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
+                                            </a>
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Boss</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gentle Monster Silver Stripe</a>
+                                                    <a href="product-layout1.html"> WHITE CYSTAL SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price old-price">$114.00</span><span class="price">$99.00</span>
+
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                                    <span class="caption hidden ms-1">8 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Select Options">
-                                                        <a href="#quickshop-modal" class="btn btn-primary quick-shop quick-shop-modal" data-bs-toggle="modal" data-bs-target="#quickshop_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product5.jpg" src="assets/images/products/sunglasses-product5.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product5-1.jpg" src="assets/images/products/sunglasses-product5-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product2.jpg" src="assets/images/product/botle/product2.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl pr-label2">Hot</span></div>
-                                            <!-- End Product label -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Gerogio</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Light Gray full rim round</a>
+                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$139.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">3 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product6.jpg" src="assets/images/products/sunglasses-product6.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product6-1.jpg" src="assets/images/products/sunglasses-product6-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product3.jpg" src="assets/images/product/botle/product3.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Boss</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gold yellow solid full rim</a>
+                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$299.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">15 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product7.jpg" src="assets/images/products/sunglasses-product7.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product7-1.jpg" src="assets/images/products/sunglasses-product7-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product4.jpg" src="assets/images/product/botle/product4.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Armani</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Transparent frame wayfarer lens</a>
+                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$139.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">11 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product8.jpg" src="assets/images/products/sunglasses-product8.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product8-1.jpg" src="assets/images/products/sunglasses-product8-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product5.jpg" src="assets/images/product/botle/product5.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Lacoste</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">220G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Green mirrored mercury lens cool</a>
+                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$134.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">0 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product3-1.jpg" src="assets/images/products/sunglasses-product3-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product6.jpg" src="assets/images/product/botle/product6.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!-- Product label -->
-                                            <div class="product-labels radius"><span class="lbl pr-label3">New</span></div>
-                                            <!-- End Product label -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">Guess</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Gucci Beige Thick Acetate</a>
+                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price">$99.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">10 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
                                     </div>
                                 </div>
                                 <div class="item col-item">
                                     <div class="product-box">
                                         <!-- Start Product Image -->
                                         <div class="product-image">
-                                            <!-- Start Product Image -->
-                                            <a href="product-layout1.html" class="product-img">
+                                            <a href="product-detail" class="product-img">
                                                 <!-- Image -->
-                                                <img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-product4.jpg" src="assets/images/products/sunglasses-product4.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Image -->
-                                                <!-- Hover Image -->
-                                                <img class="hover blur-up lazyload" data-src="assets/images/products/sunglasses-product4-1.jpg" src="assets/images/products/sunglasses-product4-1.jpg" alt="Product" title="Product" width="500" height="500" />
-                                                <!-- End Hover Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product7.jpg" src="assets/images/product/botle/product7.jpg" alt="Product" />
+
                                             </a>
-                                            <!-- End Product Image -->
-                                            <!--Product Button-->
-                                            <div class="button-set-top style1">
-                                                <!--Quick View Button-->
-                                                <a href="#quickview-modal" class="btn-icon rounded-5 quickview quick-view-modal" data-bs-toggle="modal" data-bs-target="#quickview_modal">
-                                                    <span class="icon-wrap d-flex-justify-center h-100 w-100" data-bs-toggle="tooltip" data-bs-placement="left" title="Quick View"><i class="icon anm anm-search-plus-l"></i><span class="text">Quick View</span></span>
-                                                </a>
-                                                <!--End Quick View Button-->
-                                                <!--Wishlist Button-->
-                                                <a href="wishlist-style2.html" class="btn-icon rounded-5 wishlist" data-bs-toggle="tooltip" data-bs-placement="left" title="Add To Wishlist"><i class="icon anm anm-heart-l"></i><span class="text">Add To Wishlist</span></a>
-                                                <!--End Wishlist Button-->
-                                                <!--Compare Button-->
-                                                <a href="compare-style2.html" class="btn-icon rounded-5 compare" data-bs-toggle="tooltip" data-bs-placement="left" title="Add to Compare"><i class="icon anm anm-random-r"></i><span class="text">Add to Compare</span></a>
-                                                <!--End Compare Button-->
-                                            </div>
-                                            <!--End Product Button-->
-                                            <!--Product Availability-->
-                                            <div class="product-availability rounded-5">
-                                                <div class="lh-1 d-flex justify-content-between">
-                                                    <div class="text-sold">Sold:<strong class="text-primary ms-1">34</strong></div>
-                                                    <div class="text-available">Available:<strong class="text-primary ms-1">16</strong></div>
-                                                </div>
-                                                <div class="progress">
-                                                    <div class="progress-bar w-75" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                                                </div>
-                                            </div>
-                                            <!--End Product Availability-->
                                         </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Details -->
                                         <div class="product-details text-left">
                                             <div class="details-left">
-                                                <!--Product Vendor-->
-                                                <div class="product-vendor">RayBan</div>
-                                                <!--End Product Vendor-->
-                                                <!-- Product Name -->
+                                                <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">Tinted hexagon oversized glass</a>
+                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
                                                 </div>
-                                                <!-- End Product Name -->
-                                                <!-- Product Price -->
+
                                                 <div class="product-price">
-                                                    <span class="price old-price">$198.00</span><span class="price">$99.00</span>
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
                                                 </div>
-                                                <!-- End Product Price -->
-                                                <!-- Product Review -->
-                                                <div class="product-review">
-                                                    <i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                    <span class="caption hidden ms-1">0 Reviews</span>
-                                                </div>
-                                                <!-- End Product Review -->
+
+
                                             </div>
-                                            <!-- Product Button -->
-                                            <div class="button-action details-right">
-                                                <div class="addtocart-btn">
-                                                    <form class="addtocart" action="#" method="post" data-bs-toggle="tooltip" data-bs-placement="top" title="Add to Cart">
-                                                        <a href="#addtocart-modal" class="btn btn-primary addtocart add-to-cart-modal" data-bs-toggle="modal" data-bs-target="#addtocart_modal">
-                                                            <i class="icon anm anm-bag-l"></i>
-                                                        </a>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                            <!-- End Product Button -->
+
                                         </div>
-                                        <!-- End product details -->
+                                    </div>
+                                </div>
+                                <div class="item col-item">
+                                    <div class="product-box">
+                                        <!-- Start Product Image -->
+                                        <div class="product-image">
+                                            <a href="product-detail" class="product-img">
+                                                <!-- Image -->
+                                                <img class="img-fluid" data-src="assets/images/product/botle/product8.jpg" src="assets/images/product/botle/product8.jpg" alt="Product" />
+
+                                            </a>
+                                        </div>
+                                        <div class="product-details text-left">
+                                            <div class="details-left">
+                                                <div class="product-vendor">120G</div>
+                                                <div class="product-name">
+                                                    <a href="product-layout1.html"> WHITE CRYSTAL SALT GRINDER</a>
+                                                </div>
+
+                                                <div class="product-price">
+                                                    <!-- <a href="product-detail">
+                                                        <button class="btn btn-primary">Buy Now</button>
+                                                    </a> -->
+                                                </div>
+
+
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -2051,69 +979,15 @@
     </section>
     <!--End Products With Tabs-->
 
-    <!--Featured Content-->
-    <div class="section featured-content pb-0">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-6 col-sm-6 col-md-4 col-lg-4">
-                    <div class="featured-images">
-                        <a href="shop-left-sidebar.html" class="zoom-scal clr-none"><img class="w-100 blur-up lazyload" data-src="assets/images/content/demo10-content-img1.jpg" src="assets/images/content/demo10-content-img1.jpg" alt="image" width="415" height="492" /></a>
-                    </div>
-                </div>
-                <div class="col-6 col-sm-6 col-md-4 col-lg-4">
-                    <div class="featured-images">
-                        <div class="video-popup-content position-relative">
-                            <a href="#featuredVideo-modal" class="popup-video zoom-scal d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#featuredVideo_modal" title="View Video">
-                                <img class="w-100 d-block blur-up lazyload" data-src="assets/images/content/demo10-content-img2.jpg" src="assets/images/content/demo10-content-img2.jpg" alt="image" title="" width="415" height="492" />
-                                <i class="icon anm anm-play-cir"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-4 col-lg-4 mt-4 mt-md-0">
-                    <div class="featured-details large-font text-center">
-                        <p class="small-text mb-2 alt-font">Hot sale this month</p>
-                        <div class="mb-2 fw-700 fs-3 text-uppercase head-font">Complete The Look</div>
-                        <p class="dec mb-3 pb-lg-1">There are many variations of passages of Lorem Ipsum available, majority have suffered believable.</p>
-                        <a href="shop-right-sidebar.html" class="btn btn-primary">Explore Now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--End Featured Content-->
 
-    <!--Newsletter Section-->
-    <section class="section newsletter-section">
-        <div class="container">
-            <div class="newsletter-wrap bg-size">
-                <img class="bg-img blur-up lazyload" data-src="assets/images/newsletter/demo10-newsletter-bg.jpg" src="assets/images/newsletter/demo10-newsletter-bg.jpg" alt="newsletter" width="1320" height="198" />
-                <div class="row align-items-center">
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                        <div class="section-header text-lg-start mb-4 mb-lg-0 ps-lg-5">
-                            <h2 class="mb-2">Sign up newsletter</h2>
-                            <p class="m-0 body-font">Make sure that you never miss our interesting news and exclusive promotion. No spam, Ever! </p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                        <form class="newsletter-form pe-lg-5" action="#" method="post">
-                            <div class="input-group">
-                                <input type="email" class="form-control input-group-field newsletter-input border-0" name="email" value="" placeholder="Your email address.." required />
-                                <button type="submit" class="input-group-btn btn btn-secondary newsletter-submit" name="commit">Subscribe</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--Newsletter Section-->
+
+
 
     <!--List Products Section-->
     <div class="section mini-product section-clr">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-sm-4 col-md-4 col-lg-3">
+                <div class="col-12 col-sm-4 col-md-4 col-lg-4">
                     <h4 class="column-ttl">Best Seller</h4>
                     <div class="mini-product-list">
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
@@ -2151,7 +1025,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-4 col-md-4 col-lg-3 mt-4 mt-sm-0">
+                <div class="col-12 col-sm-4 col-md-4 col-lg-4 mt-4 mt-sm-0">
                     <h4 class="column-ttl">New Products</h4>
                     <div class="mini-product-list">
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
@@ -2189,7 +1063,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-4 col-md-4 col-lg-3 mt-4 mt-sm-0">
+                <div class="col-12 col-sm-4 col-md-4 col-lg-4 mt-4 mt-sm-0">
                     <h4 class="column-ttl">Top Rated</h4>
                     <div class="mini-product-list">
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
@@ -2227,71 +1101,40 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-3 mt-4 mt-sm-5 mt-lg-0">
-                    <div class="ctg-bnr-wrap position-relative h-100">
-                        <a href="shop-left-sidebar.html" class="ctg-image ratio ratio-1x1 h-100 rounded-4 d-block">
-                            <img class="blur-up lazyload" data-src="assets/images/collection/demo10-bnr.jpg" src="assets/images/collection/demo10-bnr.jpg" alt="collection" width="307" height="419" />
-                        </a>
-                        <div class="ctg-content d-flex-center flex-nowrap flex-column h-100">
-                            <span class="ctg-small-title mb-1 fs-6 d-block">20% OFF</span>
-                            <h2 class="ctg-title m-0">Spring Summer</h2>
-                            <p class="ctg-des mt-1">Start at Just $39</p>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
     <!--End List Products Section-->
 
     <!--Blog Post-->
-    <section class="section home-blog-post pb-0">
+    <section class="section home-blog-post pb-3">
         <div class="container">
             <div class="section-header">
-                <h2>Featured article</h2>
+                <h2>Most Selling Product's</h2>
             </div>
 
             <div class="blog-slider-3items blog-post-style2 gp15 arwOut5 hov-arrow">
                 <div class="blog-item">
                     <div class="blog-article zoomscal-hov bg-white">
                         <div class="blog-img">
-                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/blog/demo10-post-img1.jpg" src="assets/images/blog/demo10-post-img1.jpg" alt="New shop collection our shop" width="420" height="289" /></a>
+                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="New shop collection our shop" width="420" height="289" /></a>
                         </div>
-                        <div class="blog-content rounded-top-0 p-4">
-                            <ul class="publish-detail d-flex-wrap mb-2 pb-1">
-                                <li class="opacity-75"><i class="icon anm anm-user-al"></i> <span>Mark Rogers</span></li>
-                                <li class="opacity-75"><i class="icon anm anm-calendar"></i> <time datetime="2023-02-14">Jan 02, 2023</time></li>
-                            </ul>
-                            <h2 class="h3 m-0"><a href="blog-details.html">New shop collection our shop</a></h2>
-                            <div class="blog-bottom d-flex-center justify-content-between mt-3">
-                                <a href="blog-details.html" class="text-link text-uppercase text-decoration-none">Read More<i class="icon anm anm-arw-right ms-2"></i></a>
-                                <a href="#" class="text-link text-decoration-none"><i class="icon anm anm-comments-l me-2"></i>10</a>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="blog-item">
                     <div class="blog-article zoomscal-hov bg-white">
                         <div class="blog-img">
-                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/blog/demo10-post-img2.jpg" src="assets/images/blog/demo10-post-img2.jpg" alt="Gift ideas for everyone" width="420" height="289" /></a>
+                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="Gift ideas for everyone" width="420" height="289" /></a>
                         </div>
-                        <div class="blog-content rounded-top-0 p-4">
-                            <ul class="publish-detail d-flex-wrap mb-2 pb-1">
-                                <li class="opacity-75"><i class="icon anm anm-user-al"></i> <span>Mark Rogers</span></li>
-                                <li class="opacity-75"><i class="icon anm anm-calendar"></i> <time datetime="2023-02-14">Jan 24, 2023</time></li>
-                            </ul>
-                            <h2 class="h3 m-0"><a href="blog-details.html">Best gift ideas for everyone</a></h2>
-                            <div class="blog-bottom d-flex-center justify-content-between mt-3">
-                                <a href="blog-details.html" class="text-link text-decoration-none text-uppercase">Read More<i class="icon anm anm-arw-right ms-2"></i></a>
-                                <a href="#" class="text-link text-decoration-none"><i class="icon anm anm-comments-l me-2"></i>8</a>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="blog-item">
                     <div class="blog-article zoomscal-hov bg-white">
                         <div class="blog-img">
-                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/blog/demo10-post-img3.jpg" src="assets/images/blog/demo10-post-img3.jpg" alt="Sales with best collection" width="420" height="289" /></a>
+                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" alt="Sales with best collection" width="420" height="289" /></a>
                         </div>
                         <div class="blog-content rounded-top-0 p-4">
                             <ul class="publish-detail d-flex-wrap mb-2 pb-1">
@@ -2308,49 +1151,12 @@
                 </div>
             </div>
 
-            <div class="view-collection text-center mt-4 mt-md-5">
-                <a href="shop-left-sidebar.html" class="btn btn-secondary btn-lg">View All Blog</a>
-            </div>
+
         </div>
     </section>
     <!--End Blog Post-->
 
-    <!--Brand Logo-->
-    <section class="section logo-section">
-        <div class="container">
-            <div class="section-header d-none">
-                <h2>Popular Brands</h2>
-                <p>Brand the way to a brighter day</p>
-            </div>
 
-            <div class="brands-list">
-                <div class="brands-row logo-bar logo-slider-6items gp10 arwOut5 hov-arrow">
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo1.png" src="assets/images/logo/brandlogo1.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo2.png" src="assets/images/logo/brandlogo2.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo3.png" src="assets/images/logo/brandlogo3.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo4.png" src="assets/images/logo/brandlogo4.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo5.png" src="assets/images/logo/brandlogo5.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo6.png" src="assets/images/logo/brandlogo6.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                    <div class="brands-logo">
-                        <a href="shop-right-sidebar.html" class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/logo/brandlogo7.png" src="assets/images/logo/brandlogo7.png" alt="Brand Logo" title="" width="194" height="97" /></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Brand Logo-->
 </div>
 <!-- End Body Container -->
 
@@ -2408,11 +1214,8 @@
 </div>
 <!-- End Service section -->
 
-
-
-
 <!--Scoll Top-->
-<div id="site-scroll"><i class="icon anm anm-arw-up"></i></div>
+<div id="site-scroll"><i class="fa-solid fa-arrow-up"></i></div>
 <!--End Scoll Top-->
 
 <!--MiniCart Drawer-->
@@ -2520,7 +1323,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-body">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">X</button>
                 <form method="post" action="#" id="product-form-quickshop" class="product-form align-items-center">
                     <!-- Product Info -->
                     <div class="row g-0 item mb-3">
@@ -2798,14 +1601,14 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content border-0">
             <div class="modal-body p-0 whiteText">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="icon anm anm-times-l"></i></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times-circle"></i></button>
                 <div class="newsletter-wrap d-flex flex-row align-items-center">
                     <div class="newsltr-img overlay position-absolute w-100 h-100 bg-size overflow-hidden">
                         <img class="bg-img blur-up" src="assets/images/newsletter/newsletter-s11.jpg" alt="image" width="546" height="392" />
                     </div>
                     <div class="newsltr-text text-center w-100">
                         <div class="wraptext mw-100">
-                            <h2 class="title mb-2">Sign Up for 15% on your <br />first order.</h2>
+                            <h2 class="title mb-2">Sultani Salt</h2>
                             <p class="text mb-3">Want exclusive access to discounts &amp; offers on premium brands?</p>
                             <form action="#" method="post" class="mcNewsletter mb-3">
                                 <div class="input-group">
@@ -2813,14 +1616,14 @@
                                     <button type="submit" class="input-group-btn btn btn-primary newsletter-submit" name="commit">Subscribe</button>
                                 </div>
                             </form>
-                            <ul class="list-inline social-icons d-inline-flex justify-content-center mb-3 w-100">
+                            <!-- <ul class="list-inline social-icons d-inline-flex justify-content-center mb-3 w-100">
                                 <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook"><i class="icon anm anm-facebook-f"></i></a></li>
                                 <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter"><i class="icon anm anm-twitter"></i></a></li>
                                 <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Pinterest"><i class="icon anm anm-pinterest-p"></i></a></li>
                                 <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Linkedin"><i class="icon anm anm-linkedin-in"></i></a></li>
                                 <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Instagram"><i class="icon anm anm-instagram"></i></a></li>
                                 <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Youtube"><i class="icon anm anm-youtube"></i></a></li>
-                            </ul>
+                            </ul> -->
                             <div class="customCheckbox checkboxlink clearfix justify-content-center">
                                 <input id="dontshow" name="newsPopup" type="checkbox" />
                                 <label for="dontshow" class="mb-0">Don't show this popup again</label>

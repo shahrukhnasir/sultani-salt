@@ -77,14 +77,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-4 col-lg-2 footer-links">
-                    <h4 class="h4 text-uppercase">My Account</h4>
-                    <ul>
-                        <li><a href="my-account.html">My Account</a></li>
-                        <li><a href="cart-style1.html">View Cart</a></li>
-                        <li><a href="wishlist-style1.html">My Wishlist</a></li>
-                        <li><a href="my-account.html">Track My Order</a></li>
-                        <li><a href="faqs-page.html">Help</a></li>
-                    </ul>
+                    <div class="my-auto">
+                        <img src="./assets/images/logo/Logo.png" alt="">
+                    </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-4 col-lg-2 footer-links ps-lg-5">
                     <h4 class="h4 text-uppercase">Quick Shop</h4>
@@ -126,16 +121,18 @@
     <div class="footer-bottom clearfix">
         <div class="container">
             <div class="row">
-                <ul class="list-inline social-icons d-inline-flex align-items-center justify-content-center justify-content-sm-start col-12 col-sm-6 col-lg-4">
+                <div class="text-center">
+                    <div class="copytext text-center col-12 col-md-12 order-2 order-lg-0 mt-3 mt-lg-0">&copy; 2024 Sultani Salt All Rights Reserved.</div>
+                </div>
+                <!-- <ul class="list-inline social-icons d-inline-flex align-items-center justify-content-center justify-content-sm-start col-12 col-sm-6 col-lg-4">
                     <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook"><i class="icon anm anm-facebook-f"></i></a></li>
                     <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter"><i class="icon anm anm-twitter"></i></a></li>
                     <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Pinterest"><i class="icon anm anm-pinterest-p"></i></a></li>
                     <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Linkedin"><i class="icon anm anm-linkedin-in"></i></a></li>
                     <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Instagram"><i class="icon anm anm-instagram"></i></a></li>
                     <li class="list-inline-item"><a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="Youtube"><i class="icon anm anm-youtube"></i></a></li>
-                </ul>
-                <div class="copytext text-center col-12 col-md-12 col-lg-4 order-2 order-lg-0 mt-3 mt-lg-0">&copy; 2024 Hema. All Rights Reserved.</div>
-                <ul class="payment-icons d-flex-center justify-content-center justify-content-sm-end col-12 col-sm-6 col-lg-4 mt-3 mt-sm-0">
+                </ul> -->
+                <!-- <ul class="payment-icons d-flex-center justify-content-center justify-content-sm-end col-12 col-sm-6 col-lg-4 mt-3 mt-sm-0">
                     <li><i class="icon anm anm-cc-visa"></i></li>
                     <li><i class="icon anm anm-cc-mastercard"></i></li>
                     <li><i class="icon anm anm-cc-amex"></i></li>
@@ -143,7 +140,7 @@
                     <li><i class="icon anm anm-cc-discover"></i></li>
                     <li><i class="icon anm anm-cc-stripe"></i></li>
                     <li><i class="icon anm anm-cc-jcb"></i></li>
-                </ul>
+                </ul> -->
             </div>
         </div>
     </div>

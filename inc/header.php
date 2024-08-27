@@ -189,7 +189,7 @@ $isHomePage = ($activePage == 'index');
                             </div>
                         </li>
 
-                        <li class="lvl1 parent dropdown"><a href="#">About us <i class="icon anm anm-angle-down-l"></i></a>
+                        <li class="lvl1 parent dropdown"><a href="#">About us </a>
                             <ul class="dropdown">
                                 <li><a href="blog-grid.html" class="site-nav">Term & Condition </a></li>
 
