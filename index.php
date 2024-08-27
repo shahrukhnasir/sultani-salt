@@ -140,7 +140,7 @@
                                 </a>
                             </div>
                             <div class="collection-item sp-col sale-banner">
-                                <a href="shop-left-sidebar.html" class="zoom-scal clr-none">
+                                <a href="#" class="zoom-scal clr-none">
                                     <div class="img">
                                         <img class="blur-up lazyload w-100" data-src="assets/images/collection/demo10-small-banner3.jpg" src="assets/images/collection/demo10-small-banner3.jpg" alt="collection" title="" width="306" height="307" />
                                     </div>
@@ -172,7 +172,7 @@
 
             <div class="collection-slider-3items gp15 arwOut5 hov-arrow">
                 <div class="category-item zoomscal-hov">
-                    <a href="shop-left-sidebar.html" class="category-link clr-none">
+                    <a href="#" class="category-link clr-none">
                         <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="collection" title="" width="420" height="521" /></div>
                         <div class="details mt-4 text-left d-flex align-items-start">
                             <div class="pr-2">
@@ -184,7 +184,7 @@
                     </a>
                 </div>
                 <div class="category-item zoomscal-hov">
-                    <a href="shop-left-sidebar.html" class="category-link clr-none">
+                    <a href="#" class="category-link clr-none">
                         <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="collection" title="" width="420" height="521" /></div>
                         <div class="details mt-4 text-left d-flex align-items-start">
                             <div class="pr-2">
@@ -199,7 +199,7 @@
                     </a>
                 </div>
                 <div class="category-item zoomscal-hov">
-                    <a href="shop-left-sidebar.html" class="category-link clr-none">
+                    <a href="#" class="category-link clr-none">
                         <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" alt="collection" title="" width="420" height="521" /></div>
                         <div class="details mt-4 text-left d-flex align-items-start">
                             <div class="pr-2">
@@ -476,7 +476,7 @@
                             </div>
 
                             <div class="view-collection text-center mt-4 mt-md-5">
-                                <a href="shop-left-sidebar.html" class="btn btn-secondary btn-lg">Load More Items</a>
+                                <a href="#" class="btn btn-secondary btn-lg">Load More Items</a>
                             </div>
                         </div>
                         <!--End Product Grid-->
@@ -722,7 +722,7 @@
                             </div>
 
                             <div class="view-collection text-center mt-4 mt-md-5">
-                                <a href="shop-left-sidebar.html" class="btn btn-secondary btn-lg">Load More Items</a>
+                                <a href="#" class="btn btn-secondary btn-lg">Load More Items</a>
                             </div>
                         </div>
                         <!--End Product Grid-->
@@ -968,7 +968,7 @@
                             </div>
 
                             <div class="view-collection text-center mt-4 mt-md-5">
-                                <a href="shop-left-sidebar.html" class="btn btn-secondary btn-lg">Load More Items</a>
+                                <a href="#" class="btn btn-secondary btn-lg">Load More Items</a>
                             </div>
                         </div>
                         <!--End Product Grid-->
@@ -1217,8 +1217,8 @@
                 <label for="prTearm"> I agree with the </label><a href="#" class="ms-1 text-link">Terms &amp; conditions</a>
             </div>
             <div class="minicart-action d-flex mt-3">
-                <a href="checkout-style1.html" class="proceed-to-checkout btn btn-primary w-50 me-1">Check Out</a>
-                <a href="cart-style1.html" class="cart-btn btn btn-secondary w-50 ms-1">View Cart</a>
+                <a href="#" class="proceed-to-checkout btn btn-primary w-50 me-1">Check Out</a>
+                <a href="#" class="cart-btn btn btn-secondary w-50 ms-1">View Cart</a>
             </div>
         </div>
     </div>
@@ -1320,8 +1320,8 @@
                             <!-- Product Action -->
                             <div class="product-form-submit d-flex-justify-center">
                                 <a href="#" class="btn btn-outline-primary product-continue w-100">Continue Shopping</a>
-                                <a href="cart-style1.html" class="btn btn-secondary product-viewcart w-100 my-2 my-md-3">View Cart</a>
-                                <a href="checkout-style1.html" class="btn btn-primary product-checkout w-100">Proceed to checkout</a>
+                                <a href="" class="btn btn-secondary product-viewcart w-100 my-2 my-md-3">View Cart</a>
+                                <a href="#" class="btn btn-primary product-checkout w-100">Proceed to checkout</a>
                             </div>
                             <!-- End Product Action -->
                         </div>
@@ -1404,8 +1404,8 @@
                         <div class="product-arrow d-flex justify-content-between">
                             <h2 class="product-title">Product Quick View Popup</h2>
                             <div class="arrows d-flex">
-                                <a class="pro-next" href="product-layout2.html" title="Previous"><i class="icon anm anm-angle-left-l"></i></a>
-                                <a class="pro-prev" href="product-layout3.html" title="Next"><i class="icon anm anm-angle-right-l"></i></a>
+                                <a class="pro-next" href="#" title="Previous"><i class="icon anm anm-angle-left-l"></i></a>
+                                <a class="pro-prev" href="#" title="Next"><i class="icon anm anm-angle-right-l"></i></a>
                             </div>
                         </div>
                         <div class="product-review d-flex mt-0 mb-2">
@@ -1467,8 +1467,8 @@
                             </div>
                         </form>
                         <div class="wishlist-btn d-flex-center">
-                            <a class="add-wishlist d-flex-center me-3" href="wishlist-style1.html" title="Add to Wishlist"><i class="icon anm anm-heart-l me-1"></i> <span>Add to Wishlist</span></a>
-                            <a class="add-compare d-flex-center" href="compare-style1.html" title="Add to Compare"><i class="icon anm anm-random-r me-2"></i> <span>Add to Compare</span></a>
+                            <a class="add-wishlist d-flex-center me-3" href="#" title="Add to Wishlist"><i class="icon anm anm-heart-l me-1"></i> <span>Add to Wishlist</span></a>
+                            <a class="add-compare d-flex-center" href="#" title="Add to Compare"><i class="icon anm anm-random-r me-2"></i> <span>Add to Compare</span></a>
                         </div>
                         <!-- Social Sharing -->
                         <div class="social-sharing share-icon d-flex-center mx-0 mt-3">
