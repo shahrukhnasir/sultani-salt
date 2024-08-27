@@ -1513,11 +1513,11 @@ textarea:-ms-input-placeholder {
 }
 
 .slick-prev:before {
-    content: "\ea8b"
+    content: ""
 }
 
 .slick-next:before {
-    content: "\ea8c"
+    content: ""
 }
 
 .slick-dots {
@@ -2237,7 +2237,7 @@ textarea:-ms-input-placeholder {
 }
 
 .marquee-text .top-info-bar a i {
-    color: #ffea00;
+    color: #ffd147;
     vertical-align: middle;
     font-size: 16px;
     margin-right: 6px;
@@ -2318,7 +2318,7 @@ textarea:-ms-input-placeholder {
 
 .header-10,
 .header-10.is-fixed {
-    background-color: #090909
+    background-color: #ffd147;
 }
 
 .logo a {
@@ -2677,7 +2677,7 @@ textarea:-ms-input-placeholder {
 }
 
 .product-review .icon {
-    color: #ffb503;
+    color: #ffd147;
     font-size: 13px;
     margin: 0 2px
 }
@@ -4954,9 +4954,7 @@ textarea:-ms-input-placeholder {
 .index-demo3 .size-swatches li:hover,
 .index-demo3 .swatches li.active,
 .index-demo3 .swatches li:hover {
-    box-shadow: 0 0 0 1px #ffd147;
-, 0 0 0 0 #fff inset
-}
+    box-shadow: 0 0 0 1px #ffd147 , 0 0 0 0 #fff inset}
 
 .index-demo3 .footer-logo-links .social-icons li a:hover,
 .index-demo3 .model-thumbnail-img .list-inline-item.active img,
@@ -4968,9 +4966,7 @@ textarea:-ms-input-placeholder {
 .index-demo3 .discount-badge .off,
 .index-demo3 .pro-stockLbl .items,
 .index-demo3 .text-primary {
-    color: #ffd147;
- !important
-}
+    color: #ffd147 !important}
 
 .index-demo3 #site-scroll:hover,
 .index-demo3 .btn-primary:hover {
@@ -6559,8 +6555,8 @@ textarea:-ms-input-placeholder {
 .header-10 .cnrLangList li a:hover,
 .index-demo10 .btn,
 .index-demo10 .btn-primary {
-    border-color: #fc4f4f;
-    background-color: #fc4f4f
+    border-color: #000000;
+    background-color: #000000
 }
 
 .index-demo9 .btn-secondary:hover {
@@ -6639,12 +6635,12 @@ textarea:-ms-input-placeholder {
 .header-10 #siteNav>li:hover>a,
 .header-10 #siteNav>li>a:hover,
 .header-10 #siteNav>li>a:hover:hover {
-    color: #fc4f4f
+    color: #000000
 }
 
 .header-10 .cart-count,
 .header-10 .wishlist-count {
-    background-color: #fc4f4f
+    background-color: #000000
 }
 
 .index-demo10 .h1,
@@ -6667,7 +6663,7 @@ textarea:-ms-input-placeholder {
 .index-demo10 .collection-slider .category-item:hover a,
 .index-demo10 a:focus,
 .index-demo10 a:hover {
-    color: #fc4f4f
+    color: #000000
 }
 
 .index-demo10 .btn,

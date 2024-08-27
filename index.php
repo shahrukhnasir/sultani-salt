@@ -24,8 +24,8 @@
                                     <h2 class="ss-mega-title">The New Era of <br>Eyewear</h2>
                                     <p class="ss-sub-title xs-hide text-large">Save your eyes from sunbeams in summer!</p>
                                     <div class="ss-btnWrap">
-                                        <a class="btn btn-primary" href="shop-grid-view.html">Explore now</a>
-                                        <a class="btn btn-secondary" href="shop-grid-view.html">Order now!</a>
+                                        <a class="btn btn-primary" href="#">Explore now</a>
+                                        <a class="btn btn-secondary" href="#">Order now!</a>
                                     </div>
                                 </div>
                             </div>
@@ -216,10 +216,10 @@
     <!--End Popular Collection-->
 
     <!--Products With Tabs-->
-    <section class="section product-grid-section tab-slider-product section-clr">
+    <section class="section product-grid-section tab-slider-product section-clr" >
         <div class="container">
             <div class="section-header">
-                <h2>Products</h2>
+                <h2 id="product">Products</h2>
             </div>
 
             <div class="tabs-listing">
@@ -254,7 +254,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> WHITE CYSTAL SALT GRINDER</a>
+                                                    <a href="#"> WHITE CYSTAL SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -284,7 +284,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                    <a href="#">PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -313,7 +313,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                    <a href="#">BLACK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -342,7 +342,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                    <a href="#">PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -371,7 +371,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">220G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                    <a href="#">BLACK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -400,7 +400,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                    <a href="#"> PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -429,7 +429,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                    <a href="#"> PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -458,7 +458,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> WHITE CRYSTAL SALT GRINDER</a>
+                                                    <a href="#"> WHITE CRYSTAL SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -500,7 +500,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> WHITE CYSTAL SALT GRINDER</a>
+                                                    <a href="#"> WHITE CYSTAL SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -530,7 +530,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                    <a href="#">PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -559,7 +559,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                    <a href="#">BLACK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -588,7 +588,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                    <a href="#">PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -617,7 +617,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">220G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                    <a href="#">BLACK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -646,7 +646,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                    <a href="#"> PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -675,7 +675,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                    <a href="#"> PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -704,7 +704,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> WHITE CRYSTAL SALT GRINDER</a>
+                                                    <a href="#"> WHITE CRYSTAL SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -746,7 +746,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> WHITE CYSTAL SALT GRINDER</a>
+                                                    <a href="#"> WHITE CYSTAL SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -776,7 +776,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                    <a href="#">PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -805,7 +805,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                    <a href="#">BLACK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -834,7 +834,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">200G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">PINK SALT GRINDER</a>
+                                                    <a href="#">PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -863,7 +863,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">220G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html">BLACK SALT GRINDER</a>
+                                                    <a href="#">BLACK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -892,7 +892,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                    <a href="#"> PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -921,7 +921,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> PINK SALT GRINDER</a>
+                                                    <a href="#"> PINK SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -950,7 +950,7 @@
                                             <div class="details-left">
                                                 <div class="product-vendor">120G</div>
                                                 <div class="product-name">
-                                                    <a href="product-layout1.html"> WHITE CRYSTAL SALT GRINDER</a>
+                                                    <a href="#"> WHITE CRYSTAL SALT GRINDER</a>
                                                 </div>
 
                                                 <div class="product-price">
@@ -991,36 +991,27 @@
                     <h4 class="column-ttl">Best Seller</h4>
                     <div class="mini-product-list">
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product1.jpg" src="assets/images/products/sunglasses-small-product1.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product1.jpg" src="assets/images/product/botle/product1.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Gucci Beige Thick Acetate</a></div>
-                                <div class="product-price"><span class="old-price">$114.00</span><span class="price">$99.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                    <span class="caption hidden ms-2">3 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product4.jpg" src="assets/images/products/sunglasses-small-product4.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product2.jpg" src="assets/images/product/botle/product2.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Transparent wayfarer</a></div>
-                                <div class="product-price"><span class="price">$128.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                    <span class="caption hidden ms-2">9 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product8.jpg" src="assets/images/products/sunglasses-small-product8.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product3.jpg" src="assets/images/product/botle/product3.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Tinted hexagon oversized</a></div>
-                                <div class="product-price"><span class="price">$99.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                    <span class="caption hidden ms-2">30 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                     </div>
@@ -1029,36 +1020,27 @@
                     <h4 class="column-ttl">New Products</h4>
                     <div class="mini-product-list">
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product5.jpg" src="assets/images/products/sunglasses-small-product5.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product4.jpg" src="assets/images/product/botle/product4.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Gucci Beige Thick Acetate</a></div>
-                                <div class="product-price"><span class="old-price">$114.00</span><span class="price">$99.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                    <span class="caption hidden ms-2">3 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product4.jpg" src="assets/images/products/sunglasses-small-product4.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product5.jpg" src="assets/images/product/botle/product5.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Gentle Monster Silver Stripe</a></div>
-                                <div class="product-price"><span class="price">$128.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                    <span class="caption hidden ms-2">9 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Black Salt</a></div>
+
+
                             </div>
                         </div>
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product6.jpg" src="assets/images/products/sunglasses-small-product6.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product6.jpg" src="assets/images/product/botle/product6.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Gentle Monster Gold Red</a></div>
-                                <div class="product-price"><span class="price">$99.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                    <span class="caption hidden ms-2">30 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                     </div>
@@ -1067,36 +1049,25 @@
                     <h4 class="column-ttl">Top Rated</h4>
                     <div class="mini-product-list">
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product2.jpg" src="assets/images/products/sunglasses-small-product2.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product7.jpg" src="assets/images/product/botle/product7.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Transparent wayfarer</a></div>
-                                <div class="product-price"><span class="old-price">$114.00</span><span class="price">$99.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                    <span class="caption hidden ms-2">3 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product3.jpg" src="assets/images/products/sunglasses-small-product3.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product8.jpg" src="assets/images/product/botle/product8.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Gold yellow solid full rim</a></div>
-                                <div class="product-price"><span class="price">$128.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                    <span class="caption hidden ms-2">9 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
+
+
                             </div>
                         </div>
                         <div class="mini-list-item d-flex align-items-center w-100 clearfix">
-                            <div class="mini-image"><a class="item-link" href="product-layout1.html"><img class="primary blur-up lazyload" data-src="assets/images/products/sunglasses-small-product4.jpg" src="assets/images/products/sunglasses-small-product4.jpg" alt="image" title="product" width="80" height="80" /></a></div>
+                            <div class="mini-image"><a class="item-link" href="#"><img class="primary blur-up lazyload" data-src="assets/images/product/botle/product1.jpg" src="assets/images/product/botle/product1.jpg" alt="image" title="product" width="80" height="80" /></a></div>
                             <div class="ms-3 details text-break">
-                                <div class="product-name"><a class="item-title" href="product-layout1.html">Light Gray full rim round</a></div>
-                                <div class="product-price"><span class="price">$99.00</span></div>
-                                <div class="product-review d-flex align-items-center justify-content-start">
-                                    <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                    <span class="caption hidden ms-2">30 reviews</span>
-                                </div>
+                                <div class="product-name"><a class="item-title" href="#">Pink Salt</a></div>
                             </div>
                         </div>
                     </div>
@@ -1118,7 +1089,7 @@
                 <div class="blog-item">
                     <div class="blog-article zoomscal-hov bg-white">
                         <div class="blog-img">
-                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="New shop collection our shop" width="420" height="289" /></a>
+                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="#"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="New shop collection our shop" width="420" height="289" /></a>
                         </div>
 
                     </div>
@@ -1126,7 +1097,7 @@
                 <div class="blog-item">
                     <div class="blog-article zoomscal-hov bg-white">
                         <div class="blog-img">
-                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="Gift ideas for everyone" width="420" height="289" /></a>
+                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="#"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="Gift ideas for everyone" width="420" height="289" /></a>
                         </div>
 
                     </div>
@@ -1134,19 +1105,9 @@
                 <div class="blog-item">
                     <div class="blog-article zoomscal-hov bg-white">
                         <div class="blog-img">
-                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="blog-details.html"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" alt="Sales with best collection" width="420" height="289" /></a>
+                            <a class="featured-image rounded-bottom-0 zoom-scal m-0" href="#"><img class="rounded-bottom-0 w-100 blur-up lazyload" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" alt="Sales with best collection" width="420" height="289" /></a>
                         </div>
-                        <div class="blog-content rounded-top-0 p-4">
-                            <ul class="publish-detail d-flex-wrap mb-2 pb-1">
-                                <li class="opacity-75"><i class="icon anm anm-user-al"></i> <span>Mark Rogers</span></li>
-                                <li class="opacity-75"><i class="icon anm anm-calendar"></i> <time datetime="2023-02-14">Feb 14, 2023</time></li>
-                            </ul>
-                            <h2 class="h3 m-0"><a href="blog-details.html">Sales with best collection</a></h2>
-                            <div class="blog-bottom d-flex-center justify-content-between mt-3">
-                                <a href="blog-details.html" class="text-link text-decoration-none text-uppercase">Read More<i class="icon anm anm-arw-right ms-2"></i></a>
-                                <a href="#" class="text-link text-decoration-none"><i class="icon anm anm-comments-l me-2"></i>12</a>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -1160,59 +1121,6 @@
 </div>
 <!-- End Body Container -->
 
-<!--Promo bar-->
-<div class="ftr-promo-bar style1">
-    <div class="container">
-        <div class="promo-slider-1items">
-            <div class="item text-center d-flex d-flex-justify-center flex-column flex-sm-row text-uppercase">
-                <span class="icon-text d-flex-justify-center mb-2 mb-sm-0 "><strong class="me-1">Don't look back, you're not going that way</strong></span>
-                <a href="shop-top-filter.html" class="btn btn-secondary ms-sm-3">Visit Our Store</a>
-            </div>
-        </div>
-    </div>
-</div>
-<!--End Promo bar-->
-
-<!-- Service section -->
-<div class="service-section section-sm bg-dark">
-    <div class="container container-1330">
-        <div class="service-info separate-line g-3 g-md-4 row row-cols-lg-4 row-cols-md-4 row-cols-sm-2 row-cols-2">
-            <div class="service-wrap d-flex-justify-center flex-nowrap">
-                <div class="service-icon d-flex align-items-center">
-                    <i class="fs-5 w-auto icon anm anm-truck-l text-white"></i>
-                </div>
-                <div class="service-content ms-2">
-                    <h6 class="mb-0 text-white">Free Shipping world wide</h6>
-                </div>
-            </div>
-            <div class="service-wrap d-flex-justify-center flex-nowrap">
-                <div class="service-icon d-flex align-items-center">
-                    <i class="fs-5 w-auto icon anm anm-dollar-sign-l text-white"></i>
-                </div>
-                <div class="service-content ms-2">
-                    <h6 class="mb-0 text-white">Money back gurantee</h6>
-                </div>
-            </div>
-            <div class="service-wrap d-flex-justify-center flex-nowrap">
-                <div class="service-icon d-flex align-items-center">
-                    <i class="fs-5 w-auto icon anm anm-repeat-alt text-white"></i>
-                </div>
-                <div class="service-content ms-2">
-                    <h6 class="mb-0 text-white">Returns &amp; exchange</h6>
-                </div>
-            </div>
-            <div class="service-wrap d-flex-justify-center flex-nowrap">
-                <div class="service-icon d-flex align-items-center">
-                    <i class="fs-5 w-auto icon anm anm-clock-r text-white"></i>
-                </div>
-                <div class="service-content ms-2">
-                    <h6 class="mb-0 text-white">24/7 Fast Support</h6>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Service section -->
 
 <!--Scoll Top-->
 <div id="site-scroll"><i class="fa-solid fa-arrow-up"></i></div>
@@ -1243,11 +1151,11 @@
         <div class="minicart-content">
             <ul class="m-0 clearfix">
                 <li class="item d-flex justify-content-center align-items-center">
-                    <a class="product-image" href="product-layout1.html">
+                    <a class="product-image" href="#">
                         <img class="blur-up lazyload" data-src="assets/images/products/cart-sunglasses-product-img1.jpg" src="assets/images/products/cart-sunglasses-product-img1.jpg" alt="product" title="Product" width="120" height="170" />
                     </a>
                     <div class="product-details">
-                        <a class="product-title" href="product-layout1.html">Gentle Gold Red</a>
+                        <a class="product-title" href="#">Gentle Gold Red</a>
                         <div class="variant-cart my-2">Black / XL</div>
                         <div class="priceRow">
                             <div class="product-price">
@@ -1266,11 +1174,11 @@
                     </div>
                 </li>
                 <li class="item d-flex justify-content-center align-items-center">
-                    <a class="product-image" href="product-layout1.html">
+                    <a class="product-image" href="#">
                         <img class="blur-up lazyload" data-src="assets/images/products/cart-sunglasses-product-img2.jpg" src="assets/images/products/cart-sunglasses-product-img2.jpg" alt="product" title="Product" width="120" height="170" />
                     </a>
                     <div class="product-details">
-                        <a class="product-title" href="product-layout1.html">Gentle Silver Stripe</a>
+                        <a class="product-title" href="#">Gentle Silver Stripe</a>
                         <div class="variant-cart my-2">Yellow / M</div>
                         <div class="priceRow">
                             <div class="product-price">
@@ -1327,11 +1235,11 @@
                 <form method="post" action="#" id="product-form-quickshop" class="product-form align-items-center">
                     <!-- Product Info -->
                     <div class="row g-0 item mb-3">
-                        <a class="col-4 product-image" href="product-layout1.html"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" /></a>
+                        <a class="col-4 product-image" href="#"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" /></a>
                         <div class="col-8 product-details">
                             <div class="product-variant ps-3">
                                 <div class="variant-cart mb-1">Sunglasses</div>
-                                <a class="product-title" href="product-layout1.html">Gucci Beige Thick Acetate</a>
+                                <a class="product-title" href="#">Gucci Beige Thick Acetate</a>
                                 <div class="priceRow mt-2 mb-3">
                                     <div class="product-price m-0"><span class="old-price">$114.00</span><span class="price">$99.00</span></div>
                                 </div>
@@ -1375,7 +1283,7 @@
                         <button type="submit" name="buy" class="btn btn-secondary proceed-to-checkout">Buy it now</button>
                     </div>
                     <!-- End Product Action -->
-                    <div class="text-center mt-3"><a class="text-link" href="product-layout1.html">View More Details</a></div>
+                    <div class="text-center mt-3"><a class="text-link" href="#">View More Details</a></div>
                 </form>
             </div>
         </div>
@@ -1394,14 +1302,14 @@
                     <div class="row d-flex-center text-center">
                         <div class="col-md-6">
                             <!-- Product Image -->
-                            <a class="product-image" href="product-layout1.html"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" /></a>
+                            <a class="product-image" href="#"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="Product" title="Product" width="500" height="500" /></a>
                             <!-- End Product Image -->
                         </div>
                         <div class="col-md-6 mt-3 mt-md-0">
                             <!-- Product Info -->
                             <div class="product-details">
                                 <div class="variant-cart mb-1">Sunglasses</div>
-                                <a class="product-title" href="product-layout1.html">Gucci Beige Thick Acetate</a>
+                                <a class="product-title" href="#">Gucci Beige Thick Acetate</a>
                                 <p class="product-clr my-2 text-muted">Black / XL</p>
                             </div>
                             <div class="addcart-total rounded-5">
@@ -1489,7 +1397,7 @@
                             <!-- End Thumbnail image -->
                         </div>
                         <!-- End Model Thumbnail -->
-                        <div class="text-center mt-3"><a href="product-layout1.html" class="text-link">View More Details</a></div>
+                        <div class="text-center mt-3"><a href="#" class="text-link">View More Details</a></div>
                     </div>
                     <div class="col-12 col-sm-6 col-md-6 col-lg-6">
                         <div class="product-subtitle">Sunglasses</div>

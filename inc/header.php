@@ -8,7 +8,7 @@ $isHomePage = ($activePage == 'index');
         <div class="row">
             <!--Logo-->
             <div class="logo col-4 col-sm-4 col-md-4 col-lg-3 align-self-center">
-                <a class="logoImg" href="index.html"><img src="assets/images/logo/Logo.png" alt="Hema Multipurpose Html Template" title="Hema Multipurpose Html Template" width="149" height="60" /></a>
+                <a class="logoImg" href="index.php"><img src="assets/images/logo/Logo.png" alt="Hema Multipurpose Html Template" title="Hema Multipurpose Html Template" width="149" height="60" /></a>
             </div>
             <!--End Logo-->
             <!--Menu-->
@@ -49,15 +49,15 @@ $isHomePage = ($activePage == 'index');
                                     </li>
                                     <li class="lvl-1 col-md-3 col-lg-3 w-22"><a href="#;" class="site-nav lvl-1 menu-title">Shop Page</a>
                                         <ul class="subLinks">
-                                            <li class="lvl-2"><a href="shop-grid-view.html" class="site-nav lvl-2">Shop Grid View</a></li>
+                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Grid View</a></li>
                                             <li class="lvl-2"><a href="shop-list-view.html" class="site-nav lvl-2">Shop List View</a></li>
                                             <li class="lvl-2"><a href="shop-left-sidebar.html" class="site-nav lvl-2">Shop Left Sidebar</a></li>
-                                            <li class="lvl-2"><a href="shop-right-sidebar.html" class="site-nav lvl-2">Shop Right Sidebar</a></li>
-                                            <li class="lvl-2"><a href="shop-top-filter.html" class="site-nav lvl-2">Shop Top Filter</a></li>
-                                            <li class="lvl-2"><a href="shop-masonry-grid.html" class="site-nav lvl-2">Shop Masonry Grid</a></li>
+                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Right Sidebar</a></li>
+                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Top Filter</a></li>
+                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Masonry Grid</a></li>
                                             <li class="lvl-2"><a href="shop-with-category.html" class="site-nav lvl-2">Shop With Category</a></li>
-                                            <li class="lvl-2"><a href="shop-grid-view.html" class="site-nav lvl-2">Classic Pagination</a></li>
-                                            <li class="lvl-2"><a href="shop-right-sidebar.html" class="site-nav lvl-2">Infinite Scrolling</a></li>
+                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Classic Pagination</a></li>
+                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Infinite Scrolling</a></li>
                                         </ul>
                                     </li>
                                     <li class="lvl-1 col-md-3 col-lg-3 w-22"><a href="#;" class="site-nav lvl-1 menu-title">Shop Other Page</a>
@@ -90,103 +90,8 @@ $isHomePage = ($activePage == 'index');
                                 </ul>
                             </div>
                         </li> -->
-                        <li class="lvl1 parent megamenu"><a href="#">Product </a>
-                            <div class="megamenu style2">
-                                <ul class="row mmWrapper">
-                                    <li class="lvl-1 col-md-3 col-lg-3"><a href="#;" class="site-nav lvl-1 menu-title">Product Page</a>
-                                        <ul class="subLinks">
-                                            <li class="lvl-2"><a href="product-layout1.html" class="site-nav lvl-2">Product Layout1</a></li>
-                                            <li class="lvl-2"><a href="product-layout2.html" class="site-nav lvl-2">Product Layout2</a></li>
-                                            <li class="lvl-2"><a href="product-layout3.html" class="site-nav lvl-2">Product Layout3</a></li>
-                                            <li class="lvl-2"><a href="product-layout4.html" class="site-nav lvl-2">Product Layout4</a></li>
-                                            <li class="lvl-2"><a href="product-layout5.html" class="site-nav lvl-2">Product Layout5</a></li>
-                                            <li class="lvl-2"><a href="product-layout6.html" class="site-nav lvl-2">Product Layout6</a></li>
-                                            <li class="lvl-2"><a href="product-layout7.html" class="site-nav lvl-2">Product Layout7</a></li>
-                                            <li class="lvl-2"><a href="product-3d-ar-models.html" class="site-nav lvl-2">Product 3D, AR models</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="lvl-1 col-md-3 col-lg-3"><a href="#;" class="site-nav lvl-1 menu-title">Product Page Types</a>
-                                        <ul class="subLinks">
-                                            <li class="lvl-2"><a href="product-standard.html" class="site-nav lvl-2">Standard Product</a></li>
-                                            <li class="lvl-2"><a href="product-variable.html" class="site-nav lvl-2">Variable Product</a></li>
-                                            <li class="lvl-2"><a href="product-grouped.html" class="site-nav lvl-2">Grouped Product</a></li>
-                                            <li class="lvl-2"><a href="product-layout4.html" class="site-nav lvl-2">Product Back in stock</a></li>
-                                            <li class="lvl-2"><a href="product-layout6.html" class="site-nav lvl-2">Product Accordion</a></li>
-                                            <li class="lvl-2"><a href="product-layout7.html" class="site-nav lvl-2">Product Tabs Left</a></li>
-                                            <li class="lvl-2"><a href="product-layout6.html" class="site-nav lvl-2">Product Bundle</a></li>
-                                            <li class="lvl-2"><a href="prodcut-360-view.html" class="site-nav lvl-2">Product 360 View</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="lvl-1 col-md-3 col-lg-6 product-col"><a href="#;" class="site-nav lvl-1 menu-title">Weekly Bestsellers</a>
-                                        <div class="grid-products weekly-product gp10 mt-1">
-                                            <div class="item">
-                                                <div class="product-wrap position-relative">
-                                                    <!-- Start Product Image -->
-                                                    <div class="product-image mb-0">
-                                                        <a href="product-layout1.html" class="product-img"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product1.jpg" src="assets/images/products/sunglasses-product1.jpg" alt="product" title="Product" width="500" height="500" /></a>
-                                                        <div class="product-labels round-pill"><span class="lbl on-sale">Sale</span></div>
-                                                    </div>
-                                                    <!-- End Product Image -->
-                                                    <!-- Start Product Details -->
-                                                    <div class="product-details text-center">
-                                                        <div class="product-name"><a class="fw-normal" href="product-layout1.html">Gentle Monster Gold Red</a></div>
-                                                        <div class="product-price">
-                                                            <span class="price old-price">$114.00</span><span class="price">$99.00</span>
-                                                        </div>
-                                                        <div class="product-review">
-                                                            <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i>
-                                                            <span class="caption hidden ms-1">3 Reviews</span>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End product details -->
-                                                </div>
-                                            </div>
-                                            <div class="item">
-                                                <div class="product-wrap position-relative">
-                                                    <!-- Start Product Image -->
-                                                    <div class="product-image mb-0">
-                                                        <a href="product-layout1.html" class="product-img"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product2.jpg" src="assets/images/products/sunglasses-product2.jpg" alt="product" title="Product" width="500" height="500" /></a>
-                                                    </div>
-                                                    <!-- End Product Image -->
-                                                    <!-- Start Product Details -->
-                                                    <div class="product-details text-center">
-                                                        <div class="product-name"><a class="fw-normal" href="product-layout1.html">Gentle Monster Silver Stripe</a></div>
-                                                        <div class="product-price">
-                                                            <span class="price">$165.00</span>
-                                                        </div>
-                                                        <div class="product-review">
-                                                            <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i>
-                                                            <span class="caption hidden ms-1">13 Reviews</span>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End product details -->
-                                                </div>
-                                            </div>
-                                            <div class="item">
-                                                <div class="product-wrap position-relative">
-                                                    <!-- Start Product Image -->
-                                                    <div class="product-image mb-0">
-                                                        <a href="product-layout1.html" class="product-img"><img class="blur-up lazyload" data-src="assets/images/products/sunglasses-product3.jpg" src="assets/images/products/sunglasses-product3.jpg" alt="product" title="Product" width="500" height="500" /></a>
-                                                    </div>
-                                                    <!-- End Product Image -->
-                                                    <!-- Start Product Details -->
-                                                    <div class="product-details text-center">
-                                                        <div class="product-name"><a class="fw-normal" href="product-layout1.html">Gucci Beige Thick Acetate</a></div>
-                                                        <div class="product-price">
-                                                            <span class="price">$153.00</span>
-                                                        </div>
-                                                        <div class="product-review">
-                                                            <i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star"></i><i class="icon anm anm-star-o"></i><i class="icon anm anm-star-o"></i>
-                                                            <span class="caption hidden ms-1">17 Reviews</span>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End product details -->
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
+                        <li class="lvl1 parent megamenu"><a href="#product">Product </a>
+                         
                         </li>
 
                         <li class="lvl1 parent dropdown"><a href="#">About us </a>
@@ -269,15 +174,15 @@ $isHomePage = ($activePage == 'index');
                 </li>
                 <li><a href="#;" class="site-nav">Shop Page <i class="icon anm anm-angle-down-l"></i></a>
                     <ul class="lvl-3">
-                        <li><a href="shop-grid-view.html" class="site-nav">Shop Grid View</a></li>
-                        <li><a href="shop-list-view.html" class="site-nav">Shop List View</a></li>
-                        <li><a href="shop-left-sidebar.html" class="site-nav">Shop Left Sidebar</a></li>
-                        <li><a href="shop-right-sidebar.html" class="site-nav">Shop Right Sidebar</a></li>
-                        <li><a href="shop-top-filter.html" class="site-nav">Shop Top Filter</a></li>
-                        <li><a href="shop-masonry-grid.html" class="site-nav">Shop Masonry Grid</a></li>
+                        <li><a href="#" class="site-nav">Shop Grid View</a></li>
+                        <li><a href="#" class="site-nav">Shop List View</a></li>
+                        <li><a href="#" class="site-nav">Shop Left Sidebar</a></li>
+                        <li><a href="#" class="site-nav">Shop Right Sidebar</a></li>
+                        <li><a href="#" class="site-nav">Shop Top Filter</a></li>
+                        <li><a href="#" class="site-nav">Shop Masonry Grid</a></li>
                         <li><a href="shop-with-category.html" class="site-nav">Shop With Category</a></li>
-                        <li><a href="shop-grid-view.html" class="site-nav">Classic Pagination</a></li>
-                        <li><a href="shop-right-sidebar.html" class="site-nav last">Infinite Scrolling</a></li>
+                        <li><a href="#" class="site-nav">Classic Pagination</a></li>
+                        <li><a href="#" class="site-nav last">Infinite Scrolling</a></li>
                     </ul>
                 </li>
                 <li><a href="#;" class="site-nav">Shop Other Page <i class="icon anm anm-angle-down-l"></i></a>
