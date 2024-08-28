@@ -1084,7 +1084,7 @@
                         <div class="details mt-4 text-left d-flex align-items-start">
                             <div class="pr-2">
                                 <h4 class="category-title h2">Best Seller</h4>
-                                <p class="dec">Himalayan Edible Salt is rich in minerals and has therapeutic properties that have a relaxing and healing effect on the human body.</p>
+                                <!-- <p class="dec">Himalayan Edible Salt is rich in minerals and has therapeutic properties that have a relaxing and healing effect on the human body.</p> -->
                             </div>
                             <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
                         </div>
@@ -1096,10 +1096,10 @@
                         <div class="details mt-4 text-left d-flex align-items-start">
                             <div class="pr-2">
                                 <h4 class="category-title h2">New Products</h4>
-                                <p class="dec">
+                                <!-- <p class="dec">
                                     We provide high quality himalayan salt processing, packaging and delivery services to the clients worldwide.
 
-                                </p>
+                                </p> -->
                             </div>
                             <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
                         </div>
@@ -1111,7 +1111,7 @@
                         <div class="details mt-4 text-left d-flex align-items-start">
                             <div class="pr-2">
                                 <h4 class="category-title h2">Top Rated</h4>
-                                <p class="dec">Buy Salt Products for Home Decor and Gifts. Himalayan Salt Lamps and Salt Candle Holders purify the air.</p>
+                                <!-- <p class="dec">Buy Salt Products for Home Decor and Gifts. Himalayan Salt Lamps and Salt Candle Holders purify the air.</p> -->
                             </div>
                             <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
                         </div>

@@ -857,7 +857,7 @@
 
     body.menuOn:after {
         content: "";
-        background: rgba(0, 0, 0, 0.5);
+        background:transparent;
         position: fixed;
         top: 0;
         bottom: 0;

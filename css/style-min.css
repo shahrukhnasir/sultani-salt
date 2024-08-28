@@ -735,7 +735,7 @@ h3 {
 .ftr-promo-bar strong,
 .h4,
 h4 {
-    font-size: 17px
+    font-size: 20px
 }
 
 #elements-icons .iconList-content,
@@ -3672,16 +3672,13 @@ textarea:-ms-input-placeholder {
     flex: 1 0 19%
 }
 
-.menubar-mobile .menubar-item>a {
-    position: relative;
-    padding-right: 10px;
-    padding-left: 10px;
-    font-size: 15px;
-    line-height: 1;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center
+.menu-mobile li>a {
+    font-size: 18px;
+    color: black;
+
+}
+.page-wrapper{
+    overflow: hidden !important;
 }
 
 .menubar-mobile .menubar-label {

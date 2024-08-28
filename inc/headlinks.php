@@ -40,7 +40,3 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/style-min.css">
 <!-- Css Stylesheet -->
-<!-- <<<<<<gallery -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css'>
-<!-- gallery >>>>> -->
