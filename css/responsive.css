@@ -3791,7 +3791,8 @@
     }
 
     .slideshow .ss-mega-title {
-        font-size: 18px !important;
+        font-size: 26px !important;
+        padding: 25px 0px 0px 0px;
     }
 
     .slideshow-xlarge .slideshow-wrap {
@@ -3801,6 +3802,16 @@
     .slideshow-large .slideshow-wrap,
     .slideshow-medium .slideshow-wrap {
         height: 250px;
+    }
+
+    .slideshow .animation.style2 {
+        margin-left: 0px !important;
+
+    }
+
+    .slideshow .animation.style1 {
+        margin-left: 0px !important;
+
     }
 
     .slideshow .wrap-caption {
@@ -4173,14 +4184,19 @@
 
     .slideshow .animation.style1 {
         margin: 0 !important;
+        position: relative;
+        right: 0% !important;
+        margin-left: 0px !important;
     }
 
     .slideshow .animation.style2 {
         margin: 0 !important;
+        margin-left: 0px !important;
     }
 
     .slideshow .animation.style3 {
         margin: 0 !important;
+        margin-left: 0px !important;
     }
 
     .slideshow.image-below-content-mobile .slideshow-content-in {

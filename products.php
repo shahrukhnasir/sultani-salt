@@ -21,11 +21,9 @@
         <!--Main Content-->
         <div class="container">
             <!--Products With Tabs-->
-            <section class="section product-grid-section tab-slider-product">
+            <section class="product-grid-section tab-slider-product">
                 <div class="container">
-                    <div class="section-header">
-                        <h2 id="product">Products</h2>
-                    </div>
+                   
 
                     <div class="tabs-listing">
                         <ul class="nav nav-tabs style1 justify-content-center" id="productTabs" role="tablist">

@@ -3805,7 +3805,7 @@ textarea:-ms-input-placeholder {
     -webkit-transform: scale(.8);
     background: #f0f8ff78 !important;
     border-radius: 20px !important;
-    margin-left: 20px !important;
+    margin-left: 20px;
     position: relative;
     right: 110%;
 
@@ -3826,7 +3826,7 @@ textarea:-ms-input-placeholder {
     -ms-transition: 1s .1s;
     background: #f0f8ff78 !important;
     border-radius: 20px !important;
-    margin-left: 20px !important;
+    margin-left: 20px;
 
 }
 
@@ -3841,7 +3841,6 @@ textarea:-ms-input-placeholder {
     transition: .8s .2s;
     background: #f0f8ff78 !important;
     border-radius: 20px !important;
-    margin-left: 20px !important;
 }
 
 .slideshow .slick-active .animation.style3,
