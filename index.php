@@ -25,7 +25,7 @@
                                     <p class="ss-sub-title xs-hide text-large">Save your eyes from sunbeams in summer!</p>
                                     <div class="ss-btnWrap">
                                         <a class="btn btn-primary" href="#">Explore now</a>
-                                        <a class="btn btn-secondary" href="#">Order now!</a>
+                                        <!-- <a class="btn btn-secondary" href="#">Order now!</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -43,13 +43,13 @@
                     <div class="container">
                         <div class="slideshow-content slideshow-overlay middle-right">
                             <div class="slideshow-content-in">
-                                <div class="wrap-caption animation style1">
+                                <div class="wrap-caption animation style2">
                                     <p class="ss-small-title">Precision, Quality & Longevity</p>
                                     <h2 class="ss-mega-title">The New Era of <br>Eyewear</h2>
                                     <p class="ss-sub-title xs-hide text-large">Save your eyes from sunbeams in summer!</p>
                                     <div class="ss-btnWrap">
                                         <a class="btn btn-primary" href="#">Explore now</a>
-                                        <a class="btn btn-secondary" href="#">Order now!</a>
+                                        <!-- <a class="btn btn-secondary" href="#">Order now!</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -68,13 +68,13 @@
                     <div class="container">
                         <div class="slideshow-content slideshow-overlay middle-right">
                             <div class="slideshow-content-in">
-                                <div class="wrap-caption animation style1">
+                                <div class="wrap-caption animation style3">
                                     <p class="ss-small-title">Precision, Quality & Longevity</p>
                                     <h2 class="ss-mega-title">The New Era of <br>Eyewear</h2>
                                     <p class="ss-sub-title xs-hide text-large">Save your eyes from sunbeams in summer!</p>
                                     <div class="ss-btnWrap">
                                         <a class="btn btn-primary" href="#">Explore now</a>
-                                        <a class="btn btn-secondary" href="#">Order now!</a>
+                                        <!-- <a class="btn btn-secondary" href="#">Order now!</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -88,6 +88,92 @@
 
     <!--End Home Slideshow-->
 
+
+    <!--Collection banner-->
+    <section class="collection-banners four-one-bnr">
+        <div class="container">
+            <div class="section-header d-none">
+                <h2>Explore All Department</h2>
+                <p>There are many variations passages Lorem Ipsum available majority</p>
+            </div>
+
+            <div class="collection-banner-grid">
+                <div class="row row-cols-lg-2 row-cols-md-2 row-cols-sm-1 row-cols-1">
+                    <div class="collection-banner-item mb-3 mt-md-0">
+                        <div class="row sp-row row-cols-lg-1 row-cols-md-1 row-cols-sm-1 row-cols-1">
+                            <div class="collection-item sp-col large-bnr">
+                                <a href="#" class="zoom-scal clr-none">
+                                    <div class="img">
+                                        <img class="blur-up lazyload w-100" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="collection" title="" width="646" height="648" />
+                                    </div>
+                                    <!-- <div class="details bottom-right p-lg-0">
+                                                    <div class="inner">
+                                                        <span class="small-title mb-2 d-block">Clear Black</span>
+                                                        <h3 class="title">Sunglass Trends</h3>
+                                                        <span class="btn btn-primary btn-md rounded-pill mt-3">Order Now</span>
+                                                    </div>
+                                                </div> -->
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="collection-banner-item">
+                        <div class="row sp-row row-cols-lg-2 row-cols-md-2 row-cols-sm-2 row-cols-2">
+                            <div class="collection-item sp-col">
+                                <a href="#" class="zoom-scal clr-none">
+                                    <div class="img">
+                                        <img class="blur-up lazyload w-100" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" title="" width="306" height="307" />
+                                    </div>
+                                    <div class="details bottom-center p-lg-0">
+                                        <div class="inner">
+                                            <span class="btn btn-primary btn-lg text-nowrap">UNISEX SQUARE</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="collection-item sp-col sale-banner">
+                                <a href="#" class="zoom-scal clr-none">
+                                    <div class="img">
+                                        <img class="blur-up lazyload w-100" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="collection" title="" width="306" height="307" />
+                                    </div>
+                                    <div class="details bottom-center p-lg-0">
+                                        <div class="inner">
+                                            <span class="btn btn-primary btn-lg text-nowrap">Art</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="collection-item sp-col">
+                                <a href="#" class="zoom-scal clr-none">
+                                    <div class="img">
+                                        <img class="blur-up lazyload w-100" data-src="./assets/images/slideshow/deco-ball.png" src="./assets/images/slideshow/deco-ball.png" alt="collection" title="" width="306" height="307" />
+                                    </div>
+                                    <div class="details bottom-center p-lg-0">
+                                        <div class="inner">
+                                            <span class="btn btn-primary btn-lg text-nowrap">Stylish Glass</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="collection-item sp-col">
+                                <a href="#" class="zoom-scal clr-none">
+                                    <div class="img">
+                                        <img class="blur-up lazyload w-100" data-src="./assets/images/slideshow/home-art.jpg" src="./assets/images/slideshow/home-art.jpg" alt="collection" title="" width="306" height="307" />
+                                    </div>
+                                    <div class="details bottom-center p-lg-0">
+                                        <div class="inner">
+                                            <span class="btn btn-primary btn-lg text-nowrap">Antiglare</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Collection banner-->
     <!--Collection banner-->
     <section class="section collection-banners four-one-bnr">
         <div class="container">
@@ -211,61 +297,10 @@
     </section>
     <!--End Collection banner-->
 
-    <!--Popular Collection-->
-    <section class="section collection-slider pt-0">
-        <div class="container">
-            <div class="section-header d-none">
-                <h2>Popular Categories</h2>
-                <p>Discover something new every day</p>
-            </div>
 
-            <div class="collection-slider-3items gp15 arwOut5 hov-arrow">
-                <div class="category-item zoomscal-hov">
-                    <a href="#" class="category-link clr-none">
-                        <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="collection" title="" width="420" height="521" /></div>
-                        <div class="details mt-4 text-left d-flex align-items-start">
-                            <div class="pr-2">
-                                <h4 class="category-title h2">Edible Salt</h4>
-                                <p class="dec">Himalayan Edible Salt is rich in minerals and has therapeutic properties that have a relaxing and healing effect on the human body.</p>
-                            </div>
-                            <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
-                        </div>
-                    </a>
-                </div>
-                <div class="category-item zoomscal-hov">
-                    <a href="#" class="category-link clr-none">
-                        <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="collection" title="" width="420" height="521" /></div>
-                        <div class="details mt-4 text-left d-flex align-items-start">
-                            <div class="pr-2">
-                                <h4 class="category-title h2">Health & Wellness</h4>
-                                <p class="dec">
-                                    We provide high quality himalayan salt processing, packaging and delivery services to the clients worldwide.
-
-                                </p>
-                            </div>
-                            <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
-                        </div>
-                    </a>
-                </div>
-                <div class="category-item zoomscal-hov">
-                    <a href="#" class="category-link clr-none">
-                        <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" alt="collection" title="" width="420" height="521" /></div>
-                        <div class="details mt-4 text-left d-flex align-items-start">
-                            <div class="pr-2">
-                                <h4 class="category-title h2">Home Decor</h4>
-                                <p class="dec">Buy Salt Products for Home Decor and Gifts. Himalayan Salt Lamps and Salt Candle Holders purify the air.</p>
-                            </div>
-                            <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Popular Collection-->
 
     <!--Products With Tabs-->
-    <section class="section product-grid-section tab-slider-product section-clr" >
+    <section class="section product-grid-section tab-slider-product section-clr">
         <div class="container">
             <div class="section-header">
                 <h2 id="product">Products</h2>
@@ -1033,7 +1068,68 @@
 
 
     <!--List Products Section-->
-    <div class="section mini-product section-clr">
+
+    <!--Popular Collection-->
+    <section class="section collection-slider pt-0">
+        <div class="container">
+            <div class="section-header d-none">
+                <h2>Popular Categories</h2>
+                <p>Discover something new every day</p>
+            </div>
+
+            <div class="collection-slider-3items gp15 arwOut5 hov-arrow">
+                <div class="category-item zoomscal-hov">
+                    <a href="#" class="category-link clr-none">
+                        <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/health_fitnes.png" src="assets/images/collection/health_fitnes.png" alt="collection" title="" width="420" height="521" /></div>
+                        <div class="details mt-4 text-left d-flex align-items-start">
+                            <div class="pr-2">
+                                <h4 class="category-title h2">Best Seller</h4>
+                                <p class="dec">Himalayan Edible Salt is rich in minerals and has therapeutic properties that have a relaxing and healing effect on the human body.</p>
+                            </div>
+                            <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
+                        </div>
+                    </a>
+                </div>
+                <div class="category-item zoomscal-hov">
+                    <a href="#" class="category-link clr-none">
+                        <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/salt.png" src="assets/images/collection/salt.png" alt="collection" title="" width="420" height="521" /></div>
+                        <div class="details mt-4 text-left d-flex align-items-start">
+                            <div class="pr-2">
+                                <h4 class="category-title h2">New Products</h4>
+                                <p class="dec">
+                                    We provide high quality himalayan salt processing, packaging and delivery services to the clients worldwide.
+
+                                </p>
+                            </div>
+                            <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
+                        </div>
+                    </a>
+                </div>
+                <div class="category-item zoomscal-hov">
+                    <a href="#" class="category-link clr-none">
+                        <div class="zoom-scal zoom-scal-nopb"><img class="blur-up lazyload" data-src="assets/images/collection/home-deco.png" src="assets/images/collection/home-deco.png" alt="collection" title="" width="420" height="521" /></div>
+                        <div class="details mt-4 text-left d-flex align-items-start">
+                            <div class="pr-2">
+                                <h4 class="category-title h2">Top Rated</h4>
+                                <p class="dec">Buy Salt Products for Home Decor and Gifts. Himalayan Salt Lamps and Salt Candle Holders purify the air.</p>
+                            </div>
+                            <!-- <div class="btnOut"><span class="btn btn-secondary"><i class="anm anm-arw-right"></i></span></div> -->
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Popular Collection-->
+
+
+
+
+
+
+
+
+    <!-- <div class="section mini-product section-clr">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4">
@@ -1124,9 +1220,41 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
     <!--End List Products Section-->
+    <!--Featured Content-->
+    <div class="section featured-content pb-0">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+                    <div class="featured-images">
+                        <a href="shop-left-sidebar.html" class="zoom-scal clr-none"><img class="w-100 blur-up lazyload" data-src="./assets/images/collection/certi.png" src="./assets/images/collection/certi.png" alt="image" width="415" height="492" /></a>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-6 col-md-4 col-lg-4">
+                    <div class="featured-images">
+                        <div class="video-popup-content position-relative">
+                            <a href="#featuredVideo-modal" class="popup-video zoom-scal d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#featuredVideo_modal" title="View Video">
+                                <img class="w-100 d-block blur-up lazyload" data-src="./assets/images/collection/home_deco.png" src="./assets/images/collection/home_deco.png" alt="ima.ge" title="" width="415" height="492" />
+                                <i class="icon fa fa-play-circle-o" aria-hidden="true"></i>
 
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-4 col-lg-4 mt-4 mt-md-0">
+                    <div class="featured-details large-font text-center">
+                        <p class="small-text mb-2 alt-font">Hot sale this month</p>
+                        <div class="mb-2 fw-700 fs-3 text-uppercase head-font">Complete The Look</div>
+                        <p class="dec mb-3 pb-lg-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed amet, minus vitae molestiae iure vero ipsum laudantium atque possimus repellat impedit est dolorem architecto, asperiores quae expedita. Facere, assumenda numquam.</p>
+                        <a href="shop-right-sidebar.html" class="btn btn-primary">Explore Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Featured Content-->
     <!--Blog Post-->
     <section class="section home-blog-post pb-3">
         <div class="container">
@@ -1545,7 +1673,7 @@
             <div class="modal-body p-0">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 <div class="ratio ratio-16x9 productVideo-wrap">
-                    <iframe src="https://www.youtube.com/embed/93A2jOW5Mog?controls=0&amp;autoplay=1&amp;rel=0&amp;showinfo=0" title="YouTube video" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Lx7iOS7nZqE?si=uSFThI3itL4OJj7t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -1561,7 +1689,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times-circle"></i></button>
                 <div class="newsletter-wrap d-flex flex-row align-items-center">
                     <div class="newsltr-img overlay position-absolute w-100 h-100 bg-size overflow-hidden">
-                        <img class="bg-img blur-up" src="assets/images/newsletter/newsletter-s11.jpg" alt="image" width="546" height="392" />
+                        <img class="bg-img blur-up" src="./assets/images/slideshow/banner2.jpg" alt="image" width="546" height="392" />
                     </div>
                     <div class="newsltr-text text-center w-100">
                         <div class="wraptext mw-100">

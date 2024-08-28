@@ -1686,7 +1686,7 @@ textarea:-ms-input-placeholder {
 .circle-dots .slick-dots li.slick-active button:after,
 .rounded-dots .slick-dots li.slick-active button,
 .secure-dots .slick-dots li.slick-active button {
-    background: #333
+    background: #ffd147;
 }
 
 .rounded-dots .slick-dots li button {
@@ -2070,7 +2070,7 @@ textarea:-ms-input-placeholder {
 .slideshow .whiteText .ss-sub-title,
 .top-header a,
 .topbar-slider-items a {
-    color: #fff
+    color: #000000
 }
 
 .index-demo3 .top-info-bar .item a:focus,
@@ -2328,7 +2328,7 @@ textarea:-ms-input-placeholder {
 
 .logo img {
     display: block;
-    max-width: 170px;
+    max-width: 70px;
     max-height: fit-content;
 }
 
@@ -3514,7 +3514,9 @@ textarea:-ms-input-placeholder {
     display: block;
     cursor: pointer
 }
-
+.footer-links ul li a{
+    color: white;
+}
 .vertical-menu-content .moreCategories:after {
     content: "\eafb";
     font-family: annimex-icons;
@@ -3743,7 +3745,7 @@ textarea:-ms-input-placeholder {
 
 .slideshow .middle-right .slideshow-content-in {
     text-align: left;
-    right: 16%;
+    right: 0;
     -ms-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%)
@@ -3800,7 +3802,13 @@ textarea:-ms-input-placeholder {
     -webkit-transition: 1s .1s;
     transition: 1s .1s;
     transform: scale(.8);
-    -webkit-transform: scale(.8)
+    -webkit-transform: scale(.8);
+    background: #f0f8ff78 !important;
+    border-radius: 20px !important;
+    margin-left: 20px !important;
+    position: relative;
+    right: 110%;
+
 }
 
 .slideshow .slick-active .animation.style1 {
@@ -3815,7 +3823,11 @@ textarea:-ms-input-placeholder {
     margin-bottom: -30px;
     transition: 1s .1s;
     -webkit-transition: 1s .1s;
-    -ms-transition: 1s .1s
+    -ms-transition: 1s .1s;
+    background: #f0f8ff78 !important;
+    border-radius: 20px !important;
+    margin-left: 20px !important;
+
 }
 
 .slideshow .slick-active .animation.style2 {
@@ -3826,13 +3838,18 @@ textarea:-ms-input-placeholder {
 .slideshow .animation.style3 {
     opacity: 0;
     transform: translateY(-15px);
-    transition: .8s .2s
+    transition: .8s .2s;
+    background: #f0f8ff78 !important;
+    border-radius: 20px !important;
+    margin-left: 20px !important;
 }
 
 .slideshow .slick-active .animation.style3,
 .slideshow .slick-active .animation.style3 .ss-btnWrap {
     opacity: 1;
-    transform: translateY(0)
+    transform: translateY(0);
+
+
 }
 
 .slideshow .animation.style3 .ss-btnWrap {
@@ -4161,7 +4178,7 @@ textarea:-ms-input-placeholder {
 .tab-slider-product .nav-tabs.style2 .nav-link.active,
 .tab-slider-product .nav-tabs.style2 .nav-link:hover {
     background-color: #ffd147;
-;
+    ;
     color: #fff
 }
 
@@ -4954,7 +4971,8 @@ textarea:-ms-input-placeholder {
 .index-demo3 .size-swatches li:hover,
 .index-demo3 .swatches li.active,
 .index-demo3 .swatches li:hover {
-    box-shadow: 0 0 0 1px #ffd147 , 0 0 0 0 #fff inset}
+    box-shadow: 0 0 0 1px #ffd147, 0 0 0 0 #fff inset
+}
 
 .index-demo3 .footer-logo-links .social-icons li a:hover,
 .index-demo3 .model-thumbnail-img .list-inline-item.active img,
@@ -4966,7 +4984,8 @@ textarea:-ms-input-placeholder {
 .index-demo3 .discount-badge .off,
 .index-demo3 .pro-stockLbl .items,
 .index-demo3 .text-primary {
-    color: #ffd147 !important}
+    color: #ffd147 !important
+}
 
 .index-demo3 #site-scroll:hover,
 .index-demo3 .btn-primary:hover {
@@ -4979,14 +4998,14 @@ textarea:-ms-input-placeholder {
 .index-demo3 .btn-outline-primary:focus {
     background-color: transparent;
     color: #ffd147;
-;
+    ;
     border-color: #ffd147;
 
 }
 
 .index-demo3 .btn-outline-primary:hover {
     background-color: #ffd147;
-;
+    ;
     color: #fff;
     border-color: #ffd147;
 
@@ -5056,7 +5075,7 @@ textarea:-ms-input-placeholder {
 
 .index-demo3 .newsletterbg {
     background-color: #ffd147;
-;
+    ;
     padding: 60px
 }
 
@@ -5098,7 +5117,7 @@ textarea:-ms-input-placeholder {
 
 .index-demo3 .service-info .icon {
     color: #ffd147;
-;
+    ;
     background-color: rgba(238, 231, 228, .36)
 }
 

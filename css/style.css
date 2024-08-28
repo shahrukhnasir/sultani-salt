@@ -3715,7 +3715,7 @@ textarea:-ms-input-placeholder {
   height: 700px;
 } 
 .home_salt_slider figure {
-  width: 200px !important;
+  width: 140px !important;
 }
 .home_salt_slider figure div p{
   font-family: var(--bs-body-font-family);
@@ -7215,7 +7215,7 @@ textarea:-ms-input-placeholder {
 
 .header-10 .iconset .hdr-icon,
 .header-10 #siteNav>li>a {
-  color: #ffffff;
+  color: #0000;
 }
 
 .header-10 #siteNav>li:hover>a,
@@ -7223,7 +7223,7 @@ textarea:-ms-input-placeholder {
 .header-10 #siteNav>li>a:hover,
 .header-10 #siteNav>li ul.dropdown li:hover>a,
 .header-10 #siteNav>li ul.dropdown li a:hover {
-  color: #000000;
+  color: #ffffff  !important;
 }
 
 .header-10 .wishlist-count,
@@ -12744,11 +12744,12 @@ textarea:-ms-input-placeholder {
 .footer-links li {
   padding: 3px 0;
   margin: 0;
+  color: white;
 }
 
 .footer-links a,
 .footer-contact a {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .footer-links a:hover,

@@ -16,81 +16,10 @@ $isHomePage = ($activePage == 'index');
                 <nav class="navigation" id="AccessibleNav">
                     <ul id="siteNav" class="site-nav medium center">
                         <li class="lvl1 parent dropdown"><a href="#">Home </a>
-                            <!-- <ul class="dropdown">
-                                <li><a href="index.html" class="site-nav lvl-2">Home 01 - Fashion</a></li>
-                                <li><a href="index2-footwear.html" class="site-nav lvl-2">Home 02 - Footwear</a></li>
-                                <li><a href="index3-bags.html" class="site-nav lvl-2">Home 03 - Bags</a></li>
-                                <li><a href="index4-electronic.html" class="site-nav lvl-2">Home 04 - Electronic</a></li>
-                                <li><a href="index5-tools-parts.html" class="site-nav lvl-2">Home 05 - Tools &amp; Parts</a></li>
-                                <li><a href="index6-jewelry.html" class="site-nav lvl-2">Home 06 - Jewelry</a></li>
-                                <li><a href="index7-organic-food.html" class="site-nav lvl-2">Home 07 - Organic Food</a></li>
-                                <li><a href="index8-cosmetics.html" class="site-nav lvl-2">Home 08 - Cosmetics</a></li>
-                                <li><a href="index9-furniture.html" class="site-nav lvl-2">Home 09 - Furniture</a></li>
-                                <li><a href="index10-sunglasses.html" class="site-nav lvl-2">Home 10 - Sunglasses</a></li>
-                                <li><a href="index11-medical.html" class="site-nav lvl-2">Home 11 - Medical</a></li>
-                                <li><a href="index12-christmas.html" class="site-nav lvl-2">Home 12 - Christmas</a></li>
-                            </ul> -->
+                           
                         </li>
-                        <!-- <li class="lvl1 parent megamenu"><a href="#">Shop <i class="icon anm anm-angle-down-l"></i></a>
-                            <div class="megamenu style1">
-                                <ul class="row grid--uniform mmWrapper">
-                                    <li class="lvl-1 col-md-3 col-lg-3 w-22"><a href="#;" class="site-nav lvl-1 menu-title">Collection Page</a>
-                                        <ul class="subLinks">
-                                            <li class="lvl-2"><a href="collection-style1.html" class="site-nav lvl-2">Collection style1</a></li>
-                                            <li class="lvl-2"><a href="collection-style2.html" class="site-nav lvl-2">Collection style2</a></li>
-                                            <li class="lvl-2"><a href="collection-style3.html" class="site-nav lvl-2">Collection style3</a></li>
-                                            <li class="lvl-2"><a href="collection-style4.html" class="site-nav lvl-2">Collection style4</a></li>
-                                            <li class="lvl-2"><a href="sub-collection-style1.html" class="site-nav lvl-2">Sub Collection style1</a></li>
-                                            <li class="lvl-2"><a href="sub-collection-style2.html" class="site-nav lvl-2">Sub Collection style2</a></li>
-                                            <li class="lvl-2"><a href="collection-empty.html" class="site-nav lvl-2">Collection Empty</a></li>
-                                            <li class="lvl-2"><a href="shop-search-results.html" class="site-nav lvl-2">Shop Search Results</a></li>
-                                            <li class="lvl-2"><a href="shop-swatches-style.html" class="site-nav lvl-2">Shop Swatches style</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="lvl-1 col-md-3 col-lg-3 w-22"><a href="#;" class="site-nav lvl-1 menu-title">Shop Page</a>
-                                        <ul class="subLinks">
-                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Grid View</a></li>
-                                            <li class="lvl-2"><a href="shop-list-view.html" class="site-nav lvl-2">Shop List View</a></li>
-                                            <li class="lvl-2"><a href="shop-left-sidebar.html" class="site-nav lvl-2">Shop Left Sidebar</a></li>
-                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Right Sidebar</a></li>
-                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Top Filter</a></li>
-                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Shop Masonry Grid</a></li>
-                                            <li class="lvl-2"><a href="shop-with-category.html" class="site-nav lvl-2">Shop With Category</a></li>
-                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Classic Pagination</a></li>
-                                            <li class="lvl-2"><a href="#" class="site-nav lvl-2">Infinite Scrolling</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="lvl-1 col-md-3 col-lg-3 w-22"><a href="#;" class="site-nav lvl-1 menu-title">Shop Other Page</a>
-                                        <ul class="subLinks">
-                                            <li class="lvl-2"><a href="wishlist-style1.html" class="site-nav lvl-2">Wishlist Style1</a></li>
-                                            <li class="lvl-2"><a href="wishlist-style2.html" class="site-nav lvl-2">Wishlist Style2</a></li>
-                                            <li class="lvl-2"><a href="compare-style1.html" class="site-nav lvl-2">Compare Style1</a></li>
-                                            <li class="lvl-2"><a href="compare-style2.html" class="site-nav lvl-2">Compare Style2</a></li>
-                                            <li class="lvl-2"><a href="cart-style1.html" class="site-nav lvl-2">Cart Style1</a></li>
-                                            <li class="lvl-2"><a href="cart-style2.html" class="site-nav lvl-2">Cart Style2</a></li>
-                                            <li class="lvl-2"><a href="checkout-style1.html" class="site-nav lvl-2">Checkout Style1</a></li>
-                                            <li class="lvl-2"><a href="checkout-style2.html" class="site-nav lvl-2">Checkout Style2</a></li>
-                                            <li class="lvl-2"><a href="order-success.html" class="site-nav lvl-2">Order Success</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="lvl-1 col-md-3 col-lg-3 w-34 banner-col">
-                                        <div class="banner-wrap">
-                                            <a href="shop-left-sidebar.html"><img class="blur-up lazyload" data-src="assets/images/megamenu/banner-menu.jpg" src="assets/images/megamenu/banner-menu.jpg" alt="banner" width="600" height="440" /></a>
-                                            <div class="banner-content">
-                                                <h4>Hot deals</h4>
-                                                <h3>Don't miss <br>Trending</h3>
-                                                <div class="banner-save text-primary">Save to 50%</div>
-                                                <div class="banner-btn"><a href="shop-left-sidebar.html" class="btn btn-primary">Shop now</a></div>
-                                            </div>
-                                            <div class="banner-discount">
-                                                <h3><span>50%</span> Off</h3>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li> -->
-                        <li class="lvl1 parent megamenu"><a href="#product">Product </a>
+                      
+                        <li class="lvl1 parent megamenu"><a href="products">Product </a>
                          
                         </li>
 
