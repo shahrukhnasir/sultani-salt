@@ -126,7 +126,7 @@
                                     </div>
                                     <div class="details bottom-center p-lg-0">
                                         <div class="inner">
-                                            <span class="btn btn-primary btn-lg text-nowrap">UNISEX SQUARE</span>
+                                            <span class="btn btn-primary btn-lg text-nowrap">Lorem</span>
                                         </div>
                                     </div>
                                 </a>
@@ -138,7 +138,7 @@
                                     </div>
                                     <div class="details bottom-center p-lg-0">
                                         <div class="inner">
-                                            <span class="btn btn-primary btn-lg text-nowrap">Art</span>
+                                            <span class="btn btn-primary btn-lg text-nowrap">lorem</span>
                                         </div>
                                     </div>
                                 </a>
@@ -150,7 +150,7 @@
                                     </div>
                                     <div class="details bottom-center p-lg-0">
                                         <div class="inner">
-                                            <span class="btn btn-primary btn-lg text-nowrap">Stylish Glass</span>
+                                            <span class="btn btn-primary btn-lg text-nowrap">lorem</span>
                                         </div>
                                     </div>
                                 </a>
@@ -162,7 +162,7 @@
                                     </div>
                                     <div class="details bottom-center p-lg-0">
                                         <div class="inner">
-                                            <span class="btn btn-primary btn-lg text-nowrap">Antiglare</span>
+                                            <span class="btn btn-primary btn-lg text-nowrap">Lorem</span>
                                         </div>
                                     </div>
                                 </a>
