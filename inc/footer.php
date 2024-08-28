@@ -91,9 +91,9 @@
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-3 footer-contact mt-1 mt-md-4 mt-lg-0">
                     <h4 class="h4 text-uppercase">Contact Us</h4>
-                    <p class="address d-flex"> 123 Street Name, City, Uk</p>
-                    <p class="phone d-flex align-items-center"><b class="me-1 d-none">Phone:</b> <a href="tel:401234567890">(+40) 123 456 7890</a></p>
-                    <p class="email d-flex align-items-center"><b class="me-1 d-none">Email:</b> <a href="mailto:info@example.com">lorem@example.com</a></p>
+                    <p class="address d-flex"> 123 Street, Pakistan</p>
+                    <p class="phone d-flex align-items-center"><b class="me-1 d-none">Phone:</b> <a href="tel:+923333002133">+923333002133</a></p>
+                    <p class="email d-flex align-items-center"><b class="me-1 d-none">Email:</b> <a href="mailto:sultanisalt@gmail.com">sultanisalt@gmail.com</a></p>
                     <p class="work-hour d-flex mb-0"><span class="hour-time">Working Hours: <br />Mon - Sun / 9:00 AM - 8:00 PM</span></p>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-2 footer-appstore mt-4 mt-lg-0">
