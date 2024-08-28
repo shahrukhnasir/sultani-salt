@@ -1693,8 +1693,8 @@
                     </div>
                     <div class="newsltr-text text-center w-100">
                         <div class="wraptext mw-100">
-                            <h2 class="title mb-2">Sultani Salt</h2>
-                            <p class="text mb-3">Want exclusive access to discounts &amp; offers on premium brands?</p>
+                            <h2 class="title text-light mb-2">Sultani Salt</h2>
+                            <p class="text-light mb-3">Want exclusive access to discounts &amp; offers on premium brands?</p>
                             <form action="#" method="post" class="mcNewsletter mb-3">
                                 <div class="input-group">
                                     <input type="email" class="form-control input-group-field newsletter-input" name="email" value="" placeholder="Email address" required />
@@ -1711,7 +1711,7 @@
                             </ul> -->
                             <div class="customCheckbox checkboxlink clearfix justify-content-center">
                                 <input id="dontshow" name="newsPopup" type="checkbox" />
-                                <label for="dontshow" class="mb-0">Don't show this popup again</label>
+                                <label for="dontshow" class="mb-0 text-light">Don't show this popup again</label>
                             </div>
                         </div>
                     </div>
