@@ -16,7 +16,7 @@
 <!--End Promo bar-->
 
 <!-- Service section -->
-<div class="service-section section-sm bg-dark">
+<!-- <div class="service-section section-sm bg-dark">
     <div class="container container-1330">
         <div class="service-info separate-line g-3 g-md-4 row row-cols-lg-4 row-cols-md-4 row-cols-sm-2 row-cols-2">
             <div class="service-wrap d-flex-justify-center flex-nowrap">
@@ -55,7 +55,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Service section -->
 <!--Footer-->
 <div class="footer ftr-bg-black footer-4 footer-10">
