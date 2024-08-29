@@ -2942,7 +2942,7 @@
     }
 
     .tabs-listing .tabs-ac-style.active:before {
-        content: "\eb69";
+        content: "";
     }
 
     .tabs-listing .tab-container .tab-content {

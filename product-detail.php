@@ -127,9 +127,9 @@
 
                                 <!-- Product Buy -->
                                 <div class="product-form-submit buyit fl-1 ms-3">
-                                    <a href="tel:+923333002133">
-                                        <button type="submit" class="btn btn-primary proceed-to-checkout"><span>Get a quote</span></button>
-                                    </a>
+                                   
+                                        <button type="submit" class="btn btn-primary proceed-to-checkout"> <a href="tel:+923333002133" class="text-dark">Get a quote</a></button>
+                                  
                                 </div>
                                 <!-- End Product Buy -->
                             </div>
