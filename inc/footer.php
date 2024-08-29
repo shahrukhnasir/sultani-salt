@@ -63,9 +63,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-4 col-lg-2 footer-links">
-                    <div class="my-auto">
+                    <div class="my-auto text-center">
+
                         <a href="index">
-                            <img src="./assets/images/logo/Logo.png" alt="">
+                            <img src="./assets/images/logo/Logo.png" width="150" height="50" alt="">
                         </a>
                     </div>
                 </div>
@@ -81,15 +82,11 @@
                 </div> -->
                 <div class="col-12 col-sm-12 col-md-4 col-lg-3 footer-links ps-lg-5">
                     <h4 class="h4 text-uppercase">Information</h4>
-                    <ul>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Lorem ipsum</a></li>
-                        <li><a href="#">dolor sit amet</a></li>
-                        <li><a href="#">consectetur adipisicing</a></li>
-                        <li><a href="#">Doloremque magni</a></li>
-                    </ul>
+                    <p class="address d-flex"> 123 Street, Pakistan</p>
+                    <p class="phone d-flex align-items-center">lorem ipsum Us</p>
+                    <p class="email d-flex align-items-center">lorem ipsum Us</p>
                 </div>
-                <div class="col-12 col-sm-12 col-md-6 col-lg-3 footer-contact mt-1 mt-md-4 mt-lg-0">
+                <div class=" footer-links  col-12 col-sm-12 col-md-6 col-lg-3 footer-contact mt-1 mt-md-4 mt-lg-0">
                     <h4 class="h4 text-uppercase">Contact Us</h4>
                     <p class="address d-flex"> 123 Street, Pakistan</p>
                     <p class="phone d-flex align-items-center"><b class="me-1 d-none">Phone:</b> <a href="tel:+923333002133">+923333002133</a></p>
@@ -99,8 +96,8 @@
                 <div class="col-12 col-sm-12 col-md-6 col-lg-2 footer-appstore mt-4 mt-lg-0">
                     <h4 class="h4 text-uppercase">Download App</h4>
                     <div class="row g-3 pt-1">
-                        <a href="#"><img src="assets/images/icons/google-play.png" alt="Google Play" title="Google Play" width="150" height="50" /></a>
-                        <a href="#"><img src="assets/images/icons/app-store.png" alt="App Store" title="App Store" width="150" height="50" /></a>
+                        <a href="#"><img src="./assets/images/icons/google-play.png" alt="Google Play" title="Google Play" width="150" height="50" /></a>
+                        <a href="#"><img src="./assets/images/icons/app-store.png" alt="App Store" title="App Store" width="150" height="50" /></a>
                     </div>
                 </div>
             </div>
