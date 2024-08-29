@@ -6481,6 +6481,10 @@ textarea:-ms-input-placeholder {
 .index-demo7 .footer .footer-top .footer-links .h4.active {
   color: #60a103;
 }
+.footer-links p{
+  font-family: Poppins, sans-serif;
+  /* font-weight: 700; */
+}
 
 .index-demo7 .footer-links a:before {
   background-color: #e6e6e6;
