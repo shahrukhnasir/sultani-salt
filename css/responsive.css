@@ -2539,8 +2539,8 @@
     }
 
     .tab-slider-product .nav-tabs .nav-link {
-        font-size: 14px;
-        margin: 0px 7px 7px;
+        font-size: 12px !important; 
+        margin: 0 5px !important;
     }
 
     .tab-slider-product .nav-tabs.style1 .nav-link:after {
@@ -2682,7 +2682,7 @@
     }
 
     .footer .footer-top .footer-links .h4:after {
-        content: "\ea45";
+        content: "";
         font-family: "annimex-icons";
         font-size: 17px;
         display: block;
@@ -2699,10 +2699,10 @@
         color: #e1e1e1;
     }
 
-    .footer .footer-top .footer-links ul {
+    /* .footer .footer-top .footer-links ul {
         display: none;
         margin-bottom: 20px;
-    }
+    } */
 
     .newsletterbg {
         padding: 40px 0;
@@ -3791,8 +3791,8 @@
     }
 
     .slideshow .ss-mega-title {
-        font-size: 26px !important;
-        padding: 25px 0px 0px 0px;
+        font-size: 20px !important;
+        padding: 50px 0px 0px 0px;
     }
 
     .slideshow-xlarge .slideshow-wrap {

@@ -12,6 +12,9 @@ textarea {
     font-family: Poppins, sans-serif
 }
 
+body{
+    overflow-x: hidden !important;
+}
 a,
 a:active,
 a:hover {
