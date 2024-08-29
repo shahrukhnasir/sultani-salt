@@ -78,7 +78,7 @@ $isHomePage = ($activePage == 'index');
                 <a href="tel:+923333002133">
                     <div class="" style="width: 30px;">
 
-                        <img src="./assets/images/icons/whatsapp.png" class="img-fluid" alt="">
+                        <img src="./assets/images/icons/call.png" class="img-fluid" alt="">
                     </div>
 
                 </a>
